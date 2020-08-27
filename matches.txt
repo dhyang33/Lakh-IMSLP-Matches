@@ -1,0 +1,1433 @@
+MIDI ID/Composer/Piece Name/IMSLP ID
+001549d8bc6ba6dc62ade443cf01a51e/Brahms, Johannes/Variations and Fugue on a Theme by Handel, Op.24/08435
+00220e6da42245fc709b0bdfd343f0a4/Mozart, Wolfgang Amadeus/Piano Sonata No.8 in A minor, K.310/70206
+003e0afbd896fa339eb70f618afd2ed2/Mozart, Wolfgang Amadeus/Rondo in D major, K.485/86715
+006ee3702b208ad81c5bb01c6fe77308/Beethoven, Ludwig van/7 Bagatelles, Op.33/58117
+008ac063a2158f470d1d95d3e1c84b1b/Bach, Johann Sebastian/15 Inventions, BWV 772-786/00895
+00ca39429edcac766d2274e4ad433ba7/Chopin, Frederic/Preludes, Op.28/86359
+010c2441355f313b748b70c0a9eeef96/Beethoven, Ludwig van/Piano Sonata No.8, Op.13/247234
+01389dc145a37cc6e8b54768b19e9617/Beethoven, Ludwig van/Piano Sonata No.26, Op.81a/69589
+017a1266a9448f6a41ed5776e5592fac/Beethoven, Ludwig van/Piano Sonata No.8, Op.13/247234
+01805c4a1f9ffcd966ef7b82e28509ed/Liszt, Franz/Hungarian Rhapsody No.12, S.244/46220
+01c58c4a896bd5c25503858827ac67ed/Beethoven, Ludwig van/2 Sonatinas for Piano, Anh.5/00955
+01e9db02f1c412c8c590d753f64995de/Bach, Johann Christian/Keyboard Sonata in G major, W.A 10/03891
+01f55c3a092c0897437e9af517126d88/Debussy, Claude/Images, 1ere serie/256276
+0233e3f932b91f37033aec7da5e728f0/Bach, Johann Sebastian/3 Minuets, BWV 841-843/03321
+0286c09b14b97ecbb94a6a6741037f58/Bach, Johann Sebastian/English Suite No.6 in D minor, BWV 811/02099
+0288100b865eba5ed6d2b27fd3b563dc/Beethoven, Ludwig van/Piano Sonata No.14, Op.27 No.2/00014
+0290b5c2b86673342209f21ead3bcaa2/Chopin, Frederic/Polonaises, Op.40/41730
+029f4ffe987291173e5cb7538ba5c2cf/Bach, Johann Sebastian/Aria variata in A minor, BWV 989/22075
+02a5f65774e3c9508b9e4a01b44d0f24/Bach, Johann Sebastian/6 Partitas, BWV 825-830/265231
+02c228d7c211aca0dd7bb8b14bc593dc/Debussy, Claude/Children's Corner/82214
+02f37f3297bd917dcb6c43b4a1bce0cd/Bach, Johann Sebastian/Prelude and Fugue in B major, BWV 868/02228
+035230c6d097cf8a8ec0f838464d46f6/Beethoven, Ludwig van/Piano Sonata No.29, Op.106/02020
+036ca8d61361f6048091e889f14d0714/Liszt, Franz/Liebestraume, S.541/05971
+037f8320c2654908f498a8e5a46781cf/Schumann, Robert/Piano Sonata No.2, Op.22/79025
+039728b483e0ed2c8880f4b97c9f7f1e/Schumann, Robert/Fantasiestucke, Op.12/224768
+03cb1a6238b376b5f510fbda724fb771/Liszt, Franz/3 Marsche von Franz Schubert, S.426/106574
+03cfa7410c12140ef856bcd83b147a22/Schumann, Robert/8 Novelletten, Op.21/71968
+03f0be06358352ea2bfbf9bb6d49c554/Chopin, Frederic/Piano Sonata No.3, Op.58/114619
+043ad8cb9cdbf45a685964e13e49a26c/Bach, Johann Sebastian/Toccata in C minor, BWV 911/109380
+04550444caad0b6586b30aad218711af/Liszt, Franz/Harmonies poetiques et religieuses I, S.154/31979
+04e266bc3b86624199bcf98840610678/Schumann, Robert/3 Fantasiestucke, Op.111/54279
+0508202327a7ef00fe1b689838e3eaf1/Chopin, Frederic/Piano Sonata No.3, Op.58/130312
+0559bae50952050c0f7f539c02803038/Bach, Johann Sebastian/Prelude and Fughetta in G major, BWV 902/03197
+05914b6342a733ebc6a0da807a440813/Bach, Johann Sebastian/15 Inventions, BWV 772-786/22076
+059a17da308a021d21ebc3ff8e818a55/Bach, Johann Sebastian/Scherzo in D minor, BWV 844/06405
+05fb367fda85223184d268664bdd86a2/Chopin, Frederic/Piano Sonata No.2, Op.35/00494
+060ef3a7293b32baed165accd570a6c0/Clementi, Muzio/6 Piano Sonatinas, Op.36/63976
+060fbff606333f45cb2e63a7299d4e1a/Chopin, Frederic/Preludes, Op.28/00485
+06762c3fa6f41276edd9bc23ef71dbb5/Bach, Johann Sebastian/15 Inventions, BWV 772-786/396133
+0697e3824bbbad7834cbfcc1f2010670/Liszt, Franz/Grandes etudes de Paganini, S.141/00597
+0715f89db8519517718a6d6b1bb266ea/Mendelssohn, Felix/Variations serieuses, Op.54/103385
+0748bd15306eb3d423b520681a13a650/Chopin, Frederic/Preludes, Op.28/00485
+076e5ceaa0617976776504110966ff24/Bach, Johann Sebastian/6 Partitas, BWV 825-830/00794
+07af956040ccb2e0cabfff6f8ca006b6/Schumann, Robert/Kinderszenen, Op.15/176120
+07eb0e9e50e969cf7dc4019125bd59ac/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/494709
+0823dff161599c7025f6dded4f85a6cb/Chopin, Frederic/Nocturnes, Op.27/47190
+08829a955b9be338b0fca614c3c61a4f/Bach, Johann Sebastian/Prelude and Fugue in C minor, BWV 871/29931
+08b5e159bb745f9f7cf72f87236a2b13/Beethoven, Ludwig van/Piano Sonata No.19, Op.49 No.1/00019
+08d44cc1659380630e9f8bcf6342c995/Beethoven, Ludwig van/Piano Sonata No.11, Op.22/00011
+08da080f517a36d11f5076fcd5b06261/Beethoven, Ludwig van/7 Bagatelles, Op.33/00947
+09375f12227d87dd3ef453b185380883/Bach, Johann Sebastian/Ouverture nach Franzosischer Art, BWV 831/417050
+09b159939dccfb42ab1b53d46267c206/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/36337
+09bb6785bd9afddcc64f3081eba8f7d7/Bach, Johann Sebastian/Partita in C minor, BWV 826/18993
+09bea001a1e4fab47786f9000fa4d759/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+0a2c7dcaf1aca9c11bc4f349a9537946/Beethoven, Ludwig van/2 Sonatinas for Piano, Anh.5/51817
+0a7a191543dbaed75d86119d654c1cf5/Chopin, Frederic/Preludes, Op.28/00485
+0af264c129bf9cdd60c2828b5534e87a/Bach, Johann Sebastian/Prelude and Fugue in C major, BWV 846/01005
+0afeb1cd4810d69e9d853f055241d689/Dana, Ruth/Collection of Liszt editions, Volume 11/15051
+0b0fdfe28eb0318ea3ac86046053724b/Brahms, Johannes/Variations and Fugue on a Theme by Handel, Op.24/08435
+0b5c4f7468fa00242fa13ae3ace45c56/Debussy, Claude/Suite bergamasque/02907
+0bfada2377fb080cd9185111177986d4/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+0bfb9eaf8587e9f644a454f072f80e55/Beethoven, Ludwig van/Piano Sonata No.23, Op.57/69585
+0c03eb8b9b79f927efbb0ff85987d28c/Bach, Johann Sebastian/15 Inventions, BWV 772-786/22077
+0c33f993495915cf1902f435a26cbd3a/Brahms, Johannes/3 Intermezzi, Op.117/311063
+0c76bac70d0609117de6760832e95071/Debussy, Claude/2 Arabesques/255354
+0c7be8c95bb999a1c14cbba93e7ee5b1/Clementi, Muzio/6 Piano Sonatinas, Op.36/29868
+0c88c69a6f9d74e08f0ebf69d5b9dabe/Beethoven, Ludwig van/Piano Sonata No.29, Op.106/101574
+0c9ce71d3c11849ad5100541f6b531c8/Beethoven, Ludwig van/Piano Sonata No.32, Op.111/02023
+0ca324b34f4c51379414a82023f564ec/Beethoven, Ludwig van/Piano Sonata No.11, Op.22/243297
+0cc4a6b3d10721c18a2c7f10237a72ec/Chopin, Frederic/Mazurkas, Op.67/96630
+0ccb524c2c89bb2417214f7127a7ac59/Haydn, Joseph/Keyboard Sonata in C major, Hob.XVI:35/472686
+0cf1952deeee2ae2f89cb5491c399a57/Beethoven, Ludwig van/Piano Sonata No.8, Op.13/247234
+0cf9d4b6bc0d1b80fb6c5f28fc0fa1ee/Schumann, Robert/Kinderszenen, Op.15/40336
+0d58eb2e2ef951631138e0924eb7215b/Brahms, Johannes/6 Klavierstucke, Op.118/84700
+0d68cd8ec10ab5d1c125e20da1854a09/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/22083
+0e1069d366f7e5a9d0346b431a67ecde/Bach, Johann Sebastian/Invention in B-flat major, BWV 785/00758
+0e515f29c6133010a57f90e45acc557f/Beethoven, Ludwig van/Piano Sonata No.21, Op.53/00021
+0e7d3afcb57f16ac1378c5fc2c8341b4/Chopin, Frederic/Etudes, Op.25/447366
+0eb49ec4a64e2f27fb0aee387d6800b2/Bach, Johann Sebastian/Prelude and Fugue in E-flat major, BWV 876/02184
+0eb9a8a24ea45850e1ae0d73fb0a1fe5/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+0eef790d37b8b29ebf27b9eebe5dd0de/Chopin, Frederic/Mazurkas, Op.33/69194
+0f0063a40cc087e1f8a32870f465166d/Schumann, Robert/Fantasiestucke, Op.12/289804
+0f0f7038f4697c3e2c79141a632e6bbb/Bach, Johann Sebastian/15 Inventions, BWV 772-786/42098
+0f1ee53aa1d73aedd5db177c5fd30bc6/Bach, Johann Sebastian/English Suite No.2 in A minor, BWV 807/58719
+0f2a3840813cf4fe6e22dcf73666e12a/Bach, Johann Sebastian/Prelude and Fugue in C major, BWV 846/01005
+0f3472bd20b1701416062dc6df9d9a35/Chopin, Frederic/Etudes, Op.25/60297
+0f5058abb69c909279e88a7f117154d1/Bach, Johann Sebastian/15 Sinfonias, BWV 787-801/00894
+0f61ea51f048011e71123cb3947ecdf9/Bach, Johann Sebastian/15 Sinfonias, BWV 787-801/63612
+0f91407e5856cfe9908e5baab02538d2/Schumann, Robert/Kinderszenen, Op.15/289791
+0fb9bee72fbe09eea4578a4ee0e5718a/Bach, Johann Sebastian/French Suite No.4 in E-flat major, BWV 815/02103
+0fe9fefd485537388c87d22e479693eb/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/494709
+101a42f00232adbb274e36527e1d9a56/Schubert, Franz/Fantasie in C major, D.760/53591
+1084745cc46d77940c63ee5372182272/Beethoven, Ludwig van/Piano Sonata No.21, Op.53/00021
+1098ed6131ca6742576406c32c1ff873/Chopin, Frederic/Nocturnes, Op.32/112742
+10c412b61cb05e9c4e3925ab0c1978d8/Chopin, Frederic/Fantaisie, Op.49/74981
+10d1186c6c2a4a2d08eac926bb05dec7/Bach, Johann Sebastian/Goldberg-Variationen, BWV 988/06984
+112316c41fc7fad0b559811375bef12a/Chopin, Frederic/Ballade No.3, Op.47/00117
+1126cf51e72e2784de4f27d8d508ba05/Chopin, Frederic/Preludes, Op.28/111925
+1136413d3a5405a9815cc6decc3c7f72/Clementi, Muzio/3 Piano Sonatinas, Op.37/57569
+11755956c6698c7fe48dc9a05f126b4e/Mozart, Wolfgang Amadeus/Piano Sonata No.11 in A major, K.331/00220
+117c93e27db2ad9faf25b3e942922358/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/494709
+1186f8c5cd9b7333fa4d77c6380be409/Bach, Johann Sebastian/Goldberg-Variationen, BWV 988/06984
+118cf64b14ff9b7705433be5862c153a/Mozart, Wolfgang Amadeus/12 Variations on "Ah, vous dirai-je maman", K.265/40557
+119e3cb5e06e8ee1cbf161677ebcb71a/Liszt, Franz/Preludes and Fugues by J.S. Bach, S.462/302236
+11a2c3b12e6015668a79a9ba327d520e/Beethoven, Ludwig van/Piano Sonata No.29, Op.106/00029
+11c8c6bd558ce7512d454e9a395f1fb7/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/494709
+11fb7a54b03a72d6a647eb5230478e1f/Mozart, Wolfgang Amadeus/Piano Sonata No.6 in D major, K.284/70204
+1213aafdd3e715e6c42498cc88c8714f/Bach, Johann Sebastian/15 Inventions, BWV 772-786/63611
+1217312f4bb35090607a1c297008d93f/Debussy, Claude/Children's Corner/82214
+1217c1c7126484662baa4d93b400bacf/Liszt, Franz/Hungarian Rhapsody No.2, S.244/42480
+1218ebbd8eb1db6661ffe357807df94a/Chopin, Frederic/Fantaisie-impromptu, Op.66/79763
+12c0e69cc8ea0f2d5465cc163574b468/Bach, Johann Sebastian/Sonata in A minor, BWV 967/07733
+12f0a0ea94109f38b0cd03906d908cfa/Liszt, Franz/Harmonies poetiques et religieuses III, S.173/98345
+134e558e9f4e15690da7f18a36e07a7f/Bach, Johann Sebastian/Suite in A minor, BWV 818/105468
+138a30c849e3626c82425b9154537944/Mozart, Wolfgang Amadeus/Piano Sonata No.11 in A major, K.331/70209
+1398f4f4d512f8d34b162c6b1824ebff/Schumann, Robert/Kinderszenen, Op.15/40336
+139ee394de8881872bac130e58eedcd1/Debussy, Claude/Children's Corner/82215
+141eaf926e5b92c5beaf5bbbc38bd57e/Beethoven, Ludwig van/Allemande, WoO 81/12831
+1426b7a659a840fbe72fb7f07ed3ec11/Bach, Johann Sebastian/Prelude and Fugue in C-sharp major, BWV 848/438714
+146188dc7be682250312c57057432132/Beethoven, Ludwig van/2 Preludes, Op.39/04895
+1495c5214a20d811a505ab5066af74cc/Schumann, Robert/Kreisleriana, Op.16/70919
+149ef32051135b986d3186d841a15fd8/Schumann, Robert/Blumenstuck, Op.19/451299
+14cad54df1bd84ee1e851493b4c32dcc/Schumann, Robert/Kreisleriana, Op.16/70919
+15259480e99cb76eb781e66e26ec478b/Beethoven, Ludwig van/Piano Sonata No.25, Op.79/69588
+159cc6ad912573a693cd9addd7069720/Bach, Johann Sebastian/Fugue in B-flat major, BWV 954/05828
+15b745b75c3374431d84e691a203597f/Beethoven, Ludwig van/Piano Sonata No.26, Op.81a/51798
+15fbf154492c6f60db4dade71a7023b7/Beethoven, Ludwig van/Fur Elise, WoO 59/318757
+16171e8eb4121f461e697ab24f68ca24/Bach, Johann Sebastian/15 Inventions, BWV 772-786/22076
+162767a7c8d991579e54aea4e02c6771/Bach, Johann Sebastian/15 Inventions, BWV 772-786/19938
+163e0979e3fd4f1cd14d67fad4fdcf72/Beethoven, Ludwig van/Piano Sonata No.29, Op.106/00029
+1687902d98312be12304ff0281dca58c/Beethoven, Ludwig van/Fur Elise, WoO 59/11471
+168ade1182dd0cf46629f93b85f8450a/Beethoven, Ludwig van/Fur Elise, WoO 59/11471
+16ad9834a5f076c8c5567238bbdeea40/Bach, Johann Sebastian/15 Inventions, BWV 772-786/22077
+1790014e2ea7bf53984b16737a21bfab/Chopin, Frederic/Preludes, Op.28/00485
+179dc586fff1266cb1d674909598a10f/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/494709
+17d77a2f7aa04da8ba80a2aa58aa39dc/Bach, Johann Sebastian/6 Partitas, BWV 825-830/62575
+181da9c0b16845b89eebd566cb25340b/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/494709
+1887b2ac5dd6d3edd4e97babf287aa99/Brahms, Johannes/4 Klavierstucke, Op.119/84747
+18950368e4ec4c32d1a99f6c369d5674/Bach, Johann Sebastian/15 Inventions, BWV 772-786/22076
+18c3dc2a23c06fc6cc2f9076a14eba3a/Chopin, Frederic/Mazurkas, Op.24/86544
+18ef650e532cb753b26c4dacd06503a3/Chopin, Frederic/Fantaisie-impromptu, Op.66/79763
+18ff36832c3124ff75cb514d671875fa/Chopin, Frederic/Preludes, Op.28/79718
+1901bb8b1c1d05e82aa6fe3a112a91a0/Chopin, Frederic/Scherzo No.4, Op.54/142732
+1923f1f5ef68ab892b0331ae19f810be/Chopin, Frederic/Polonaises, Op.26/85661
+19625cd3706f3b876c85144ae2859cbe/Bach, Johann Sebastian/Prelude and Fugue in C major, BWV 846/01005
+1992382fca42f3fbcbe734d5bc1a0457/Beethoven, Ludwig van/7 Bagatelles, Op.33/58117
+19cf29a73f93f11c14972f647b3bdc4e/Bach, Johann Sebastian/15 Inventions, BWV 772-786/19938
+19fe01847fe125a71ad43dff4640b3ec/Chopin, Frederic/Etudes, Op.25/112921
+1a1269ba8e9a0dd357eb6559c10654bd/Beethoven, Ludwig van/Piano Sonata No.21, Op.53/00021
+1a85a507eb6537e6a8330d438d67df84/Bach, Johann Sebastian/English Suite No.5 in E minor, BWV 810/109385
+1b112d29c0fae4c311445e3735ad6dfe/Chopin, Frederic/Piano Sonata No.2, Op.35/85386
+1b15b0d295986b20b4f8015437d3155c/Schumann, Robert/Kinderszenen, Op.15/00720
+1b1a343b9d27ffb5f5d25609fa4a9df3/Schumann, Robert/Kinderszenen, Op.15/40336
+1b42d5cc605b1f1962497b94cd05f765/Mozart, Wolfgang Amadeus/Piano Sonata No.16 in C major, K.545/70214
+1be5f3799bf859a0a52c3f26490ef959/Beethoven, Ludwig van/Piano Sonata No.14, Op.27 No.2/32717
+1c720912015853c18e035494c5280113/Beethoven, Ludwig van/Piano Sonata No.20, Op.49 No.2/45469
+1c8b28f1ad317b96ab16f98c34e190a5/Schumann, Robert/Kinderszenen, Op.15/289791
+1cb52770a37e6224991fa790f804ffb5/Bach, Johann Sebastian/15 Sinfonias, BWV 787-801/00894
+1cd6ab0c14d23d98fefd9e811921ca78/Chopin, Frederic/Preludes, Op.28/00485
+1d4191c4a9b25adf96c6fab3cc4e75a4/Mozart, Wolfgang Amadeus/Piano Sonata No.18 in D major, K.576/56445
+1d573ed6f1a3a4ea962b5609fbdd8af7/Liszt, Franz/3 Etudes de concert, S.144/139914
+1da78040ca7c0f8bf21172de3a739f8b/Clementi, Muzio/6 Piano Sonatinas, Op.36/63976
+1db116828d3580a771c9906eeb057650/Beethoven, Ludwig van/Piano Sonata No.5, Op.10 No.1/00005
+1de6fa38e9d7bcead5d86bf78a93c8ca/Bartok, Bela/10 Easy Pieces, Sz.39/273012
+1e4b5a21477a7d7f55ace40b1408f475/Beethoven, Ludwig van/Piano Sonata No.8, Op.13/51718
+1efa9219b8b0f2eeff9c58e0e85d21c9/Beethoven, Ludwig van/Piano Sonata No.8, Op.13/00008
+1f0431c9fb0f4d76c2c45eb7c8c15d41/Chopin, Frederic/Preludes, Op.28/84753
+1f5563b74746594f676fc522738b67a5/Debussy, Claude/Children's Corner/82215
+1f8903cf1e78883a0c4198a2ad488d1c/Chopin, Frederic/Etudes, Op.25/112347
+1f8c76a942ae11df3356e3c62ed07ace/Chopin, Frederic/Waltz in E minor, B.56/137400
+1fb6bd840f33cf8f89d9d31264916127/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+20d4d8a3074fc06c58451d0bcfc38626/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+20d9c67da88ae66eaa503f67ca8eab60/Bach, Johann Sebastian/English Suite No.2 in A minor, BWV 807/58719
+2142f2e1e2f6c68a7a228351a2dd5771/Chopin, Frederic/Preludes, Op.28/84753
+2170a6a7da5fc8b042cfcbcec171832b/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/494709
+21b6cd8fe5c5cbbac1975c1f0d86c7ac/Chopin, Frederic/Preludes, Op.28/84752
+21d31e3bbce881c11291cd1e7390bd8c/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/494709
+21d51ce1078603aea51020143bf5f561/Bach, Johann Sebastian/6 Partitas, BWV 825-830/62575
+21fa6bed81d824a0b858c22d20bf46f0/Chopin, Frederic/Nocturnes, Op.15/112736
+2237323a60aaf637da91707b01dc20f2/Chopin, Frederic/Mazurkas, Op.33/69194
+225314d72503d0cbfc903ab0e97059fa/Beethoven, Ludwig van/Piano Sonata No.18, Op.31 No.3/69580
+2284b211d3f29362f799edb8cd40b164/Bach, Johann Sebastian/Toccata in D minor, BWV 913/03203
+23012fa91633b35d5d45d0772cc2aa27/Bach, Carl Philipp Emanuel/Keyboard Sonata in E minor, H.176/54212
+231f35fa7ea429dd06709939d9e0c886/Beethoven, Ludwig van/2 Rondos, Op.51/518273
+23d8118e8b2b4efb4e016d5b0910fc7d/Liszt, Franz/Grandes etudes de Paganini, S.141/55303
+23e3c2b5b3bdcc260ad73cef072763a0/Bach, Johann Sebastian/Prelude and Fugue in F-sharp minor, BWV 859/01018
+23e3d26327cd4ecb54c676246858ca71/Brahms, Johannes/Piano Sonata No.1, Op.1/00119
+23fcf0cfd836a114e5293dd1c9ce37bf/Bach, Johann Sebastian/Duetto No.4 in A minor, BWV 805/00822
+240e30b53091f79b577f859f1206dabe/Chopin, Frederic/Preludes, Op.28/00485
+24298a77318feec861a0904c55448203/Bach, Johann Sebastian/Prelude and Fugue in C-sharp major, BWV 848/438714
+244168f66bd1313affccf63d7a2d2f16/Debussy, Claude/Suite bergamasque/46697
+244347436787471efd4c1a4e801caca0/Bach, Johann Sebastian/15 Inventions, BWV 772-786/00895
+2453638c7d63e0854883667cdc48f106/Chopin, Frederic/Piano Sonata No.3, Op.58/130312
+24a2f23e91b4dc229d97a427f9f299fd/Beethoven, Ludwig van/Piano Sonata No.7, Op.10 No.3/00007
+24e3ce35ec2f4fcf2cd1adc296799810/Bach, Johann Sebastian/15 Inventions, BWV 772-786/19938
+24e4b07c25b05b16fd927c76b23b41ad/Bach, Johann Sebastian/Prelude and Fugue in E-flat major, BWV 876/02184
+24e6b525052895e6e655ed069524286d/Schumann, Robert/Kinderszenen, Op.15/40336
+24ed77d75de49e0bb32a6eeb4a3b7e6b/Beethoven, Ludwig van/Piano Sonata No.8, Op.13/00008
+2508a5d3f939b0740cbaa69c7e52d228/Liszt, Franz/Liebestraume, S.541/05971
+25570ec2071a6e96b224840932f6c269/Liszt, Franz/Etudes d'execution transcendante, S.139/67095
+255db628cc24a85e3ef8b59d2e382d88/Bach, Johann Sebastian/15 Inventions, BWV 772-786/22076
+25cde1ab99179ffe909611c5a9ba10b8/Mozart, Wolfgang Amadeus/Piano Sonata No.16 in C major, K.545/70214
+25d36dde35bbbe602570c53d0aed3edc/Beethoven, Ludwig van/Piano Sonata No.11, Op.22/243297
+25d69494f4bdc8b6afd356d24711f2e4/Chopin, Frederic/Nocturne in E minor, Op.72 No.1/139197
+2616da33a09d8d43ef5776d68d48ed49/Bach, Johann Sebastian/Prelude and Fugue in C major, BWV 846/01005
+266b6dac11bf31b83cc07fb9b646f2fe/Bach, Johann Sebastian/15 Inventions, BWV 772-786/19938
+2677cf785791e1cfca13a0566aafbc85/Liszt, Franz/Reminiscences de Don Juan, S.418/95879
+2699b791a8f0563959d0cc03a42b7c76/Bach, Johann Sebastian/15 Inventions, BWV 772-786/19938
+26a0cd91cd18a3fa589f5be93b571bdd/Clementi, Muzio/6 Piano Sonatinas, Op.36/63976
+26b5e2691be3eae24ddee409fa085357/Beethoven, Ludwig van/Piano Sonata No.14, Op.27 No.2/32718
+26e7277651d8381f7ed390ef5ba50ae8/Bach, Johann Sebastian/Prelude and Fugue in E-flat major, BWV 852/02212
+2707d827411671b662c5c302157c5338/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/494709
+2739de9d64f153acfdb7745b5f667d3a/Bach, Johann Sebastian/Prelude and Fugue in D major, BWV 874/02182
+2740d890a0ac16083283167f4a599471/Chopin, Frederic/Preludes, Op.28/00485
+2775f7185d8a2b18647c4f24c289437a/Schumann, Robert/Fantasiestucke, Op.12/289804
+27c802ad2b95bfcb1910b29d2fa6e473/Clementi, Muzio/6 Piano Sonatinas, Op.36/63976
+280ac0a1546f335ec9808d9e68273c13/Chopin, Frederic/Preludes, Op.28/00485
+281283e375ad68316f5f1866e928ed2e/Chopin, Frederic/Waltz in A-flat major, B.21/140313
+284050a3942cdf712ddd1365e093ec63/Bach, Johann Sebastian/15 Sinfonias, BWV 787-801/00894
+2845ba8d217efa58147f5b7cc045d72f/Brahms, Johannes/7 Fantasien, Op.116/84692
+289d438094441dd1454ee70c7037f3f0/Beethoven, Ludwig van/7 Bagatelles, Op.33/00947
+28b2243b8e27db07cfb919e614bc0f8c/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+28bb435384ee91e236b7362aea777b43/Chopin, Frederic/Mazurkas, Op.33/142720
+28c63510d1c9ca440abd6828badeeb45/Chopin, Frederic/Mazurkas, Op.30/392031
+29282d06d423e4e1ae9ac51764fc2a42/Mozart, Wolfgang Amadeus/Piano Sonata No.16 in C major, K.545/70214
+29813d9204b19a6762b1353c0edb741f/Chopin, Frederic/Mazurkas, Op.24/142718
+29ece180b6540475fd32a61991adebc4/Bach, Johann Sebastian/6 Partitas, BWV 825-830/00791
+2a118936c25504b88a15331369edafd7/Mozart, Wolfgang Amadeus/12 Variations on "Ah, vous dirai-je maman", K.265/40557
+2a1d1093548abc9ea79aa72c3f72e5c2/Schumann, Robert/Blumenstuck, Op.19/451299
+2a4d9306c84a665a603dffee86c307d5/Bach, Johann Sebastian/Goldberg-Variationen, BWV 988/06984
+2a626573baf0a7581660b5e2005fcd4c/Mozart, Wolfgang Amadeus/Piano Sonata No.13 in B-flat major, K.333/70211
+2a6e046fd1de1a5651aa2ccd42b49be6/Liszt, Franz/Venezia e Napoli, S.159/04460
+2a71c0cd3cf67bb33793a563cfca5686/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/36339
+2a93eeabf6494350478657d0da63cc62/Chopin, Frederic/Preludes, Op.28/79718
+2a99f354be132d723eacf59853ac1148/Debussy, Claude/Children's Corner/82214
+2ae1fc25d5bc3af9f0b71d05f29ecb09/Chopin, Frederic/Piano Sonata No.3, Op.58/113237
+2aeb144ab2c97c2419f83f8378d3b29e/Bach, Johann Sebastian/Toccata in E minor, BWV 914/485255
+2af79a5a3a7f8ca468c03609f31564a8/Beethoven, Ludwig van/Piano Sonata No.8, Op.13/00008
+2b45ce63857ebbf8270f941becc714ff/Mozart, Wolfgang Amadeus/Fantasia in D minor, K.397/86713
+2b6e9d82b86053df61530bd681f17d9e/Chopin, Frederic/Preludes, Op.28/00485
+2b8a7a5ffe6f5adf5ffd1541f00e5eab/Schumann, Robert/Kinderszenen, Op.15/289791
+2bae84b7c626d5732a3aad637bff235c/Bach, Johann Sebastian/15 Inventions, BWV 772-786/22076
+2be503b4d18bc20b6d580d1cc47d8164/Bach, Johann Sebastian/Toccata in D minor, BWV 913/03203
+2bf5b3745257baf8fed1b57c2819a9e5/Schumann, Robert/Kinderszenen, Op.15/289791
+2c2374d3e99c5a07584cf1da7dcaf075/Bach, Johann Sebastian/15 Inventions, BWV 772-786/22077
+2c3bbbbf6175ddd395986c621a248366/Mozart, Wolfgang Amadeus/Minuet in F major, K.4/56678
+2c3ebc7602bcff143a7876d1729dbc89/Bach, Johann Sebastian/15 Inventions, BWV 772-786/00895
+2c4053ae1b62e1a9a9ee4cbe777564cc/Mozart, Wolfgang Amadeus/Piano Sonata No.17 in B-flat major, K.570/56443
+2c8808e9f57d65cd0c2c9c2d29f6aff9/Bach, Johann Sebastian/Allemande in A minor, BWV 835/06426
+2cda711a0bcba41dc88d233ee800e4d8/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/494709
+2d064ccfb02605ce83a63504329cf421/Clementi, Muzio/6 Piano Sonatinas, Op.36/63976
+2d614eb9f23483e269207ff8918902a8/Schumann, Robert/Kinderszenen, Op.15/40336
+2d757b05f4f58378f38b229119749e17/Bach, Johann Sebastian/15 Sinfonias, BWV 787-801/00894
+2d7c93dc34b164b7f80ae47cbe16116a/Beethoven, Ludwig van/Piano Sonata No.8, Op.13/243128
+2dacbfc3c8d0b6cb84e7d306fdeb8102/Mozart, Wolfgang Amadeus/Adagio in B minor, K.540/86718
+2e39e52cb48df3062a3f1a71471d7d3d/Schumann, Robert/Kinderszenen, Op.15/40336
+2f001b73b066de9361f9de75fecbf953/Bach, Johann Sebastian/15 Inventions, BWV 772-786/00895
+2f129a5c284fd64999cbb07016b9d77d/Bach, Johann Sebastian/15 Inventions, BWV 772-786/22076
+2f8c42c17ea08332e888b510aaa3fea2/Bach, Johann Christian/Keyboard Sonata in G major, W.A 10/03891
+2f90932b51b666b7a4c001f94226f0cd/Chopin, Frederic/Preludes, Op.28/79718
+2fa09276e8034245bd760cd4987da5ee/Clementi, Muzio/Gradus ad Parnassum, Op.44/03743
+306a94f71c82405f4d7b7c68b148d467/Bach, Johann Sebastian/Prelude and Fugue in A minor, BWV 551/04321
+309fbbdb3a104e76804c7e0589db4ad4/Tchaikovsky, Pyotr/The Seasons, Op.37a/321831
+30aa75b04f6fb3c48adc6740d537b8cb/Schumann, Robert/Fantasie, Op.17/289793
+30c1b50b1df626bc475263c66f71d7cb/Schubert, Franz/4 Impromptus, D.899/239051
+30f2932ae8bb56a022656876644452d3/Mozart, Wolfgang Amadeus/Piano Sonata No.13 in B-flat major, K.333/56440
+32146b076653a32731361629db31c567/Schumann, Robert/Kinderszenen, Op.15/40336
+32599e5fac8b38c686d6bea26edc19bd/Debussy, Claude/2 Arabesques/82212
+327852b1e95de5032bb1db6f7738045f/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/173660
+32f2d4f2cd8228dc44a32cd89fd3b90d/Beethoven, Ludwig van/Piano Sonata No.11, Op.22/00011
+32f6035ee5d665a9e4894849de004691/Chopin, Frederic/Preludes, Op.28/84752
+330363d9ae8bf20a323ba90b16abfbc1/Clementi, Muzio/Gradus ad Parnassum, Op.44/273447
+330980eed6957ea21139a9fe43c43d60/Mozart, Wolfgang Amadeus/Piano Sonata No.12 in F major, K.332/70210
+33254319971800dbcd31315a03ae3d2e/Chopin, Frederic/Etudes, Op.25/112921
+332c8943664df97052074e239bc64964/Dana, Ruth/Collection of Liszt editions, Volume 11/15051
+334ff4e9bd148fe83079731a5263ee51/Beethoven, Ludwig van/Piano Sonata No.31, Op.110/02022
+33500e73cdc9ae4b4c5ad5079912837a/Clementi, Muzio/6 Piano Sonatinas, Op.36/63976
+33c3a88ca9c3abb3fb674e6f65531a51/Chopin, Frederic/Mazurkas, Op.7/86542
+33eaed0d6b2243b24393577bf386960f/Clementi, Muzio/6 Piano Sonatinas, Op.36/63976
+33feb80c5424092a1b6e9108ebc65259/Liszt, Franz/Hungarian Rhapsody No.2, S.244/67715
+3402928cb3e08e269a741fbbded5139f/Bach, Johann Sebastian/Prelude and Fugue in A major, BWV 864/01023
+34622af0789284c9a4ee5fd0aa22cf48/Mozart, Wolfgang Amadeus/Piano Sonata No.3 in B-flat major, K.281/70201
+3469d2c04c03970d8642476f301ac43f/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/494709
+34769933dedfdb7b5c2a13a6417b1e97/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/22083
+3499fe31c70ec121882d3d1f0abc086e/Lamb, Joseph Francis/Sensation/06396
+34c04cd56b1087851f79780360f48225/Liszt, Franz/Reminiscences de Don Juan, S.418/95879
+34fd06655dd5228fac811b5445c7554f/Bach, Johann Sebastian/Toccata in E minor, BWV 914/485255
+352133fa378ebeebef86e6b97e1a99bd/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/29934
+355cfca95e47ac0a411195059f119da5/Bach, Johann Sebastian/English Suite No.1 in A major, BWV 806/02094
+3568a1d3bef358becd4cb42b97717b23/Beethoven, Ludwig van/Piano Sonata No.29, Op.106/101574
+359fa308fe88a13e76534139bf1045bf/Beethoven, Ludwig van/Piano Sonata No.23, Op.57/00023
+35f322e03f7c29d5516c00289fd787e5/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/29934
+3607236f39a799a6b793c1fb2fc5e43e/Mozart, Wolfgang Amadeus/Piano Sonata No.11 in A major, K.331/00220
+36310373ee303bd6b85a2edb159b186b/Mozart, Wolfgang Amadeus/Piano Sonata No.10 in C major, K.330/70208
+363d692a943a701e11496e6e229d6496/Beethoven, Ludwig van/Piano Sonata No.2, Op.2 No.2/40024
+3678a326432ba191427899d76ad04851/Bach, Johann Sebastian/Suite in F minor, BWV 823/109062
+369b45551b48f7cec206bb17eca3e6aa/Clementi, Muzio/6 Piano Sonatinas, Op.36/63976
+36b0a752a50e25bf54996a7b0efe6517/Bach, Johann Sebastian/Duetto No.3 in G major, BWV 804/00821
+36cab4b072700ded35afa1d1cf0a091c/Chopin, Frederic/Mazurkas, Op.67/86553
+36dd7b80d8296c89d6dbf6128fdacbc5/Beethoven, Ludwig van/Piano Sonata No.26, Op.81a/00026
+36fead6557658251996afce3e81c55e3/Chopin, Frederic/Etudes, Op.25/60297
+371a6b4a55e4fcb555f804df005767a0/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/22083
+372c47d49cff0deaeb45a08bbfdf88d9/Clementi, Muzio/Piano Sonata, Op.26/400281
+3775429b4c831d33c736b955b79cccb6/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+377da5575bd910da3934ced88724d0f6/Schumann, Robert/Fantasiestucke, Op.12/224769
+379cbb08a44ce43b10ba86d7f6796852/Beethoven, Ludwig van/2 Rondos, Op.51/58122
+37c00138f3ef54a349b7c2a14a1d2f20/Brahms, Johannes/7 Fantasien, Op.116/08447
+37dfe67bdd766d796791fab6863172ea/Bach, Wilhelm Friedemann/Keyboard Sonata in B-flat major, F.9/03833
+3808aa291ced5c7d7cbe4d21f243ab5b/Schumann, Robert/Kreisleriana, Op.16/423690
+3816707b8dcf1d1e17a52adaee72d926/Mozart, Wolfgang Amadeus/Piano Sonata No.9 in D major, K.311/00218
+382b6de780ec5c79f795f4350e9fd225/Bach, Johann Sebastian/15 Sinfonias, BWV 787-801/00894
+389af5bb969d63d82ea5c07a70f9d000/Mozart, Wolfgang Amadeus/Minuet in F major, K.4/56678
+38a0c2babf4eb4eab790fce364bb4f8f/Debussy, Claude/Children's Corner/82215
+38b5ba76b096972c5b89e50c047d1daa/Bach, Johann Sebastian/15 Inventions, BWV 772-786/22077
+38c26431cb2c8a9fef26258994fb8175/Liszt, Franz/Consolations, S.172/91543
+390a993477cb60bb1d78abd5fc426067/Liszt, Franz/Etudes d'execution transcendante, S.139/67095
+3936f71e2d2656d199ca29942b76a72d/Beethoven, Ludwig van/Fur Elise, WoO 59/318757
+39398f7f14ead1e18802156768e01285/Bach, Johann Sebastian/Prelude and Fugue in B minor, BWV 869/02229
+394995f6afaa49b847e3cd521a6c9a83/Scarlatti, Domenico/Keyboard Sonata in A major, K.26/376357
+398799eadebf64ede6246d9222f31ea6/Chopin, Frederic/Preludes, Op.28/66277
+39a351eb530c022f5423df0f00f63a6f/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+39f9f12349789cea88424513e4790c30/Schumann, Robert/Kinderszenen, Op.15/289791
+3a1841303794bc9b7333835efce60582/Clementi, Muzio/6 Piano Sonatinas, Op.36/63976
+3a75466001c65e1a485b14bf2744c8ce/Bach, Johann Sebastian/English Suite No.2 in A minor, BWV 807/58719
+3a85ebc44fc4156b0400b0ea8a5fa218/Chopin, Frederic/Etudes, Op.10/37119
+3aced4ae92b96024f0f2145761ce6efc/Mozart, Wolfgang Amadeus/Piano Sonata No.11 in A major, K.331/70209
+3af71feb7211f758e63ddcf7b4dbc63d/Beethoven, Ludwig van/Piano Sonata No.9, Op.14 No.1/00009
+3afd97cf6599b896da2378b3d3815e87/Clementi, Muzio/6 Piano Sonatinas, Op.36/63976
+3b3c0933f3a4db526ce145e071cff9b1/Chopin, Frederic/Piano Sonata No.2, Op.35/111374
+3cb2f37a8f74f93a60d31c1b818ba43f/Beethoven, Ludwig van/Piano Sonata No.14, Op.27 No.2/00014
+3cceebae62f790fe674492860f9cab32/Erbach, Christian/3 Introitus mit Versus/109118
+3cdf9a96ee589ef07f872c008989e6fe/Chopin, Frederic/Waltz in E minor, B.56/97254
+3d2c31c434d0bb8b610ee23577a0b39c/Chopin, Frederic/Piano Sonata No.3, Op.58/142736
+3d4683d0bd2cfce94f09cbdf771b54fa/Clementi, Muzio/6 Piano Sonatinas, Op.36/63976
+3d89813c932b9fe2c619cd8584a775ef/Chopin, Frederic/Preludes, Op.28/79718
+3e0eb8182c66a573e3d07d7cc3809983/Chopin, Frederic/Preludes, Op.28/00485
+3e4004bb598a0f611288d2b01d643946/Bach, Johann Sebastian/15 Inventions, BWV 772-786/00895
+3e5dadc6308b3cc34c3940a0e4d5f28c/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/494709
+3e633763ecc37afb07b40895b59e5540/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+3ed1e6fff79d80142483fd33a33d3b2a/Debussy, Claude/2 Arabesques/82212
+3f29da2f5e97a5a0fc7e661f486ed302/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+3f2c503934a1708ca3a683bfc35ec786/Bach, Johann Sebastian/Prelude and Fugue in C major, BWV 846/01005
+3f2f35ef14e791fe4486e972d4209b35/Schumann, Robert/Kinderszenen, Op.15/289791
+3f5a9831fce2a85d2f5dbc76c3239a50/Debussy, Claude/The Little Nigar/04565
+3fc2fc3b237998e582d8ecff36d18b97/Chopin, Frederic/Mazurkas, Op.6/86541
+4018c81825425e37b6b0f49efdb372b3/Debussy, Claude/Reverie/00516
+40276f1a02e00ff6ed1c606e45357975/Beethoven, Ludwig van/Piano Sonata No.29, Op.106/00029
+403c851f5adcaea456213d7367a3942f/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/29934
+403fcd985df06665d386bdf16e525258/Liszt, Franz/Grandes etudes de Paganini, S.141/00597
+40a024d8782f38935b578554583a9fb6/Bach, Johann Sebastian/Prelude and Fugue in B-flat major, BWV 866/01025
+40c736c78c63bfe3da2631a9df12925b/Mozart, Wolfgang Amadeus/Piano Sonata No.16 in C major, K.545/00226
+41610e6959c2a616f2aa0bfdcfd93335/Chopin, Frederic/Preludes, Op.28/86359
+41a4850a1d326173a26a3a0122e836e1/Chopin, Frederic/Mazurkas, Op.33/69194
+41b72e092a8aeedabece740a81204deb/Bach, Johann Sebastian/Suite in F minor, BWV 823/109062
+4218470c1b14ef80470da46d5ec9a997/Bach, Johann Sebastian/Prelude and Fugue in E major, BWV 854/02214
+421e8ae3873155e6eb403711526d5667/Schumann, Robert/Kinderszenen, Op.15/176120
+4266ef4f4e968749225eb4c59a17ae6b/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+428e96015979f6bdadfec61bde12d746/Beethoven, Ludwig van/Piano Sonata No.14, Op.27 No.2/00014
+4292a5601130a60eafbd6b989ba03415/Scarlatti, Domenico/Keyboard Sonata in A major, K.24/461756
+42b888484cdf4ccdb50c9341ade4bee5/Clementi, Muzio/6 Piano Sonatinas, Op.36/63976
+42c1f2618021ccb74452059b40c4e9bd/Liszt, Franz/Liebestraume, S.541/04459
+42e53d1f769a80bf8aa02a547accdb42/Brahms, Johannes/7 Fantasien, Op.116/84692
+42e66370d9980942fe3fb95aa571744e/Clementi, Muzio/6 Piano Sonatinas, Op.36/63976
+42f8192ac630e72360bbf3902c028697/Chopin, Frederic/Nocturnes, Op.15/112736
+430fe850e572f55b3bbe20a07459e6d8/Bach, Johann Sebastian/Prelude and Fugue in C-sharp major, BWV 848/438714
+4331eeb33e26ac7270350b8b2288bac9/Liszt, Franz/Album d'un voyageur, S.156/04094
+43d38cc2902c5613a1b540cee5d3a9f4/Mozart, Wolfgang Amadeus/Piano Sonata No.13 in B-flat major, K.333/56440
+43d96f01797e210ae343657c078e70f5/Bach, Johann Sebastian/Goldberg-Variationen, BWV 988/06984
+43fc27494b7a6aad439440375ed0370d/Chopin, Frederic/Preludes, Op.28/00485
+4428f67341916a4f65d16dbb08766440/Clementi, Muzio/6 Piano Sonatinas, Op.36/63976
+44436eb3bd802686017e293ad06469e4/Bach, Johann Sebastian/Fantasia and Fugue in C minor, BWV 906/03273
+44ceccec30f8eda4d4847f244a7c2525/Chopin, Frederic/Preludes, Op.28/86359
+44e18d9bd9289a7cd5a4d576a62beae0/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/494709
+44fa95fc7e9739db86ae0bbb50693c80/Chopin, Frederic/Etudes, Op.10/168185
+45454da929d4012429d1f5619084401d/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+456f01fc9ae8934986aa0cb1f976d3fb/Chopin, Frederic/Preludes, Op.28/86359
+458b2d957a32475619d157902a430866/Bach, Carl Philipp Emanuel/Solfeggio in C minor, H.220/379620
+45a58e9681edf55904d654b6a1abd51d/Bach, Johann Sebastian/Prelude and Fugue in G-sharp minor, BWV 863/01022
+45c4f633d335faf15a13d42b489acfa0/Haydn, Joseph/Keyboard Sonata in E-flat major, Hob.XVI:52/475088
+45efa6e8e7ef4b5106afdd92c24d9d7a/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/494709
+460a1008c746affb7d3bd327d6d7c8ce/Clementi, Muzio/Gradus ad Parnassum, Op.44/273447
+4627a8e49c391b74335582d95685844e/Liszt, Franz/Grandes etudes de Paganini, S.141/00597
+4709969a6b8da20bd40ddfdec3364dbd/Bach, Johann Sebastian/Capriccio in B-flat major, BWV 992/03319
+47c68fb6586d729faaaad7fd63e7b3ff/Mozart, Wolfgang Amadeus/Piano Sonata No.7 in C major, K.309/70205
+47f92a52880e48e620f0229175f34d8d/Beethoven, Ludwig van/6 Bagatelles, Op.126/281827
+4826aa5f4c01b1265bc9aafa2a52738e/Schumann, Robert/Kinderszenen, Op.15/40336
+483f9100013b099622f6d38c110d6ef0/Beethoven, Ludwig van/2 Rondos, Op.51/58122
+4870fa62193a7d7be8cdfcf0c053a699/Bach, Johann Sebastian/Fantasia and Fugue in C minor, BWV 906/109063
+48c782968ab8a7d577b23d755455cf21/Mozart, Wolfgang Amadeus/Piano Sonata No.11 in A major, K.331/70209
+49225f51c7fe324b2d270734c6011ed9/Clementi, Muzio/6 Piano Sonatinas, Op.36/73600
+49313332cbc95bfb2706158a2dd5dd0f/Bach, Johann Sebastian/15 Inventions, BWV 772-786/00895
+494d0c23f3ab18093e4169f8524eb5cb/Chopin, Frederic/Grande valse brillante, Op.18/79743
+496b3947501d081cf03c6c359094c1f7/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+49863d7c9c89bcda0c7bee820e7313eb/Chopin, Frederic/Etudes, Op.10/37119
+4a05197d936fa060dca8e5aec383f631/Mozart, Wolfgang Amadeus/Fantasia in C minor, K.475/421440
+4a8e95de1bfef349f094efab1597c8cf/Chopin, Frederic/Preludes, Op.28/111925
+4abd6b04dab702da0b8dee756655596c/Mozart, Wolfgang Amadeus/Piano Sonata No.11 in A major, K.331/00220
+4afab3df3e2daaf8986c66fcf23ab77d/Chopin, Frederic/Preludes, Op.28/00485
+4b671d20600776d7b43a608d47ccb43c/Bach, Johann Sebastian/15 Sinfonias, BWV 787-801/00894
+4b80d831e0a597373c794d57ec456d87/Clementi, Muzio/3 Keyboard Sonatas, Op.37/173434
+4b9b6892c8070451dd81d7f7aa1e7b45/Mozart, Wolfgang Amadeus/Piano Sonata No.17 in B-flat major, K.570/56443
+4c1decb03ebb56423e4e2fc8933e5067/Haydn, Joseph/Divertimento in F major, Hob.XVI:9/471963
+4c35540c495ba09e1af319a93e3ae4a2/Chopin, Frederic/Etudes, Op.10/514955
+4c3d001078001db765261187bab122ef/Chopin, Frederic/Preludes, Op.28/84752
+4c4a0dd550a1d89b2e1c2e8bb35fa4c6/Albeniz, Isaac/Suite Espanola No.1, Op.47/188371
+4c57438fb05ab18648c1e885c056b81a/Bach, Johann Sebastian/15 Inventions, BWV 772-786/19938
+4c858899be232c20de18706edb47f430/Mozart, Wolfgang Amadeus/Piano Sonata No.17 in B-flat major, K.570/56443
+4c93c5de16f857d516a90b0ad84c77f7/Schumann, Robert/Kinderszenen, Op.15/40336
+4caac7130f8ee3454e2d5b19d730ce92/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+4cc05de563107720f2affa67573394ea/Bach, Johann Sebastian/Goldberg-Variationen, BWV 988/06984
+4cce6e348157e33b45cc278ba40c794b/Mozart, Wolfgang Amadeus/Piano Sonata No.1 in C major, K.279/00210
+4cd7238e88d38b95dd38ecec16fa65a5/Haydn, Joseph/Keyboard Sonata in C major, Hob.XVI:35/472686
+4ceb9b7423509941e327f3914399ac08/Mozart, Wolfgang Amadeus/Piano Sonata No.12 in F major, K.332/00221
+4d07cdcfe1036dafeb5befe90b25fa87/Schumann, Robert/Fantasie, Op.17/00714
+4d0c2367ad2cf4c4a17baed0018b270d/Mozart, Wolfgang Amadeus/Piano Sonata No.16 in C major, K.545/70214
+4d2e77c231bffe205277b0a4243b7865/Beethoven, Ludwig van/Piano Sonata No.20, Op.49 No.2/69582
+4d5595c9356f932ea91f5cf307924134/Beethoven, Ludwig van/11 Bagatelles, Op.119/00946
+4d6f59147e5838400758bbff5bc20700/Liszt, Franz/Mephisto Waltz No.1, S.514/11633
+4d70e72878de98ef8250bce3cfcf8b41/Chopin, Frederic/Mazurkas, Op.7/142716
+4d77cf886d3bcb525fd41ead79b4d993/Bach, Johann Sebastian/15 Inventions, BWV 772-786/00895
+4d971cbd97d18f2f741b53acb743e8d0/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+4dc17d53b55dc17fc9a07322f529c3bb/Bach, Johann Sebastian/15 Sinfonias, BWV 787-801/00894
+4e16df07147c250815867ce2ae01b2f8/Beethoven, Ludwig van/7 Bagatelles, Op.33/58117
+4e2734a246fa6ad8efd0fa6c9082b9a2/Bach, Wilhelm Friedemann/Keyboard Sonata in B-flat major, F.9/03833
+4e4d419b465769b9e0ca22530c72bcf8/Brahms, Johannes/8 Klavierstucke, Op.76/311061
+4eef33ef752ee3415bf94dffab98e0b2/Clementi, Muzio/Gradus ad Parnassum, Op.44/105471
+4f2af076a73b21b1562ae779e29e585c/Clementi, Muzio/6 Piano Sonatinas, Op.36/63976
+4f2bea439f922b8489ef35b9f2bb7e59/Bach, Johann Sebastian/Prelude and Fugue in C major, BWV 846/01005
+4f5e2684dfd960c6e505e043748cd772/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/36338
+4f72d982490eb68a1918472d0b43c547/Liszt, Franz/Hungarian Rhapsody No.9, S.244/44753
+4fa7d18f1860953adf3434b45abfef60/Schumann, Robert/Kinderszenen, Op.15/00720
+4fd5a3d8c6baca39c3ac2e4f182e8903/Brahms, Johannes/4 Klavierstucke, Op.119/01534
+4fd61c025e72299cc2ce67b250b7106c/Schubert, Franz/Fantasie in C major, D.760/53591
+4fe27076fdca169b607aee610f96e24a/Chopin, Frederic/Nocturnes, Op.48/81072
+5013ea11a35eb982b4a3ef2cf216f336/Beethoven, Ludwig van/Rondo a capriccio, Op.129/02408
+5026fafb8f00b262c7477f3ff7cb6ee5/Bach, Johann Sebastian/English Suite No.3 in G minor, BWV 808/02096
+502b4e3ca4565021bde0005026f6857a/Bach, Johann Sebastian/Goldberg-Variationen, BWV 988/06984
+505fcde522d244c3f84a33c86d4f7348/Schumann, Robert/8 Novelletten, Op.21/289728
+506a1a483c7bd0e302c53cb4801073e9/Chopin, Frederic/Mazurkas, Op.50/111845
+50f19493c85f21fdb327e9ab0d14e308/Bach, Johann Sebastian/15 Inventions, BWV 772-786/22076
+50f5e5c834f8594993f78c6f47783c77/Mozart, Wolfgang Amadeus/Piano Sonata No.11 in A major, K.331/00220
+5101f5e8b2def6be4c0c8f6d570cef70/Bach, Johann Sebastian/Prelude and Fugue in F major, BWV 880/02188
+51488ba07915a089a251abed82a368a6/Gouin, Pierre/Preludes, Op.28/66277
+514e2bd38cfb389352ff2bd88ad1cee0/Schumann, Robert/Kreisleriana, Op.16/00730
+515a127cfc076ba227fbf9f2afbbb1a4/Beethoven, Ludwig van/Piano Sonata No.29, Op.106/02020
+5162e821e34181002bbc306a92344d69/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+5221e1e6216c0519bc80553fcbd76155/Debussy, Claude/Suite bergamasque/46697
+5225021b13b78c52746185af9ca20124/Clementi, Muzio/3 Piano Sonatinas, Op.37/57569
+52461bba505dcef8cb415b2395f9ad96/Bach, Johann Sebastian/15 Sinfonias, BWV 787-801/00894
+52ba123544ae60d047298fd5ac0f31d7/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/494709
+52d1c739c5cfea2e2340762ec8eb268b/Chopin, Frederic/Preludes, Op.28/84752
+52da4b8bf9ba7e9c433880ff19a3507d/Clementi, Muzio/6 Piano Sonatinas, Op.36/29868
+52fe47885d228907e4b830c88ac05f00/Mozart, Wolfgang Amadeus/Piano Sonata No.13 in B-flat major, K.333/00222
+53112720618f8e31a6ebe430b8b49304/Debussy, Claude/Children's Corner/82215
+532c507f9e0087b168a1248f7331d40a/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/36340
+532c8a66c9c16d40322ddea8789c161c/Bach, Johann Christian/Keyboard Sonata in G major, W.A 10/03891
+5367b03f6c499af20a5d47d0c52e9c11/Clementi, Muzio/Gradus ad Parnassum, Op.44/105471
+5395346284a422b5894c3f743b526d73/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/36339
+53b77392dbac274504b61afe93b12052/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+53d44d3a4e85c87294885890851e6bb0/Bach, Wilhelm Friedemann/Fantasie in A minor, F.23/03843
+53eeb12d3ee8597579157a625fc8bc22/Chopin, Frederic/Etudes, Op.10/86296
+541d84e126a3986dedaf616fe8f8f6b7/Chopin, Frederic/Mazurkas, Op.7/29440
+5426b7451ff1e9f9964b1e8ba33a2e83/Haydn, Joseph/Divertimento in C major, Hob.XVI:7/471958
+5490450fa24eb88c019eb73a0702c8a7/Beethoven, Ludwig van/Piano Sonata No.8, Op.13/30364
+54f1651fba7c9abd8160733c09d4730a/Chopin, Frederic/Waltzes, Op.70/80390
+5526f71ffa79ee8a14c95161a2439ac4/Beethoven, Ludwig van/Fantasia for Piano, Op.77/05147
+5536a1569840f0a3c83540a467ce0b3a/Mozart, Wolfgang Amadeus/Piano Sonata No.7 in C major, K.309/70205
+5537f4c6d2598aa2c3dba8ffa085725c/Chopin, Frederic/Etudes, Op.10/86296
+554f3dc3fad5bd3c64a4ec6804b32316/Bach, Johann Sebastian/15 Inventions, BWV 772-786/22076
+555df688f1ff305e5d0184d5c24e2ff3/Beethoven, Ludwig van/Fur Elise, WoO 59/11471
+555f5674645663cf10d07f20b43cb266/Mozart, Wolfgang Amadeus/Piano Sonata No.7 in C major, K.309/70205
+55a1e4e95cf232ecee9c675bcab05703/Chopin, Frederic/Etudes, Op.25/60297
+563b71e3f3d11cf2d713e1559526c9ee/Liszt, Franz/Hungarian Rhapsody No.2, S.244/67715
+564aefccad78f9a341621485a069f866/Chopin, Frederic/Etudes, Op.25/60297
+568748a5f92a1aac55bf6fc661ab09c7/Chopin, Frederic/Preludes, Op.28/63317
+569380db54f745ed4f5b8e30a6cefc59/Bach, Johann Sebastian/Prelude and Fugue in B-flat major, BWV 866/01025
+569a469e348a81c320ed29702e31c971/Beethoven, Ludwig van/7 Bagatelles, Op.33/58117
+56a2f6e73bfcab59987eeda8d456062f/Chopin, Frederic/Preludes, Op.28/00485
+56b12d3fb9b6f9063e18427807344e8b/Bach, Johann Sebastian/English Suite No.1 in A major, BWV 806/02094
+56e0153fd5249f731355d6c9efeceda6/Chopin, Frederic/Nocturnes, Op.55/114004
+5705564fa4212f5379eb11decad66df4/Mozart, Wolfgang Amadeus/Piano Sonata No.13 in B-flat major, K.333/00222
+5705e993f33f25629ed0de3eab063b06/Debussy, Claude/Suite bergamasque/46697
+57188cca9e80e4f58d2b5c78b66780d2/Beethoven, Ludwig van/Piano Sonata No.11, Op.22/68726
+571a810495f5715a18ac6a2773afea38/Bach, Johann Sebastian/Sinfonia in B-flat major, BWV 800/00774
+5723c625d21aa1f703b1325fe2e59769/Chopin, Frederic/Nocturnes, Op.27/115009
+5740a19ade9d54441027e0d3029ef6eb/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+57809aae63a3043114bc237d314353f2/Schubert, Franz/Piano Sonata No.19, D.958/55384
+57d107ced8803426aa6c1de1e81a27e7/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/494709
+57fe5a08f209231d9003550a7035b25e/Bach, Johann Sebastian/15 Inventions, BWV 772-786/396133
+580f6e1ea19bb2eaf5499dcc82b27629/Chopin, Frederic/Preludes, Op.28/79718
+585af4868b0e5593ed8a3a07b136bfb6/Satie, Erik/Pieces froides/237539
+58a13d9a48f7e32b4c879fd4ed31ff68/Chopin, Frederic/Mazurkas, Op.50/111845
+58ab87f232ded12eb148a710715ab77b/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/36339
+58e56ad23e2a2fa2ad5b78cdc4e7b4e9/Bach, Johann Sebastian/English Suite No.1 in A major, BWV 806/02094
+58fde1cda2076f7cc904ea2bdd060968/Chopin, Frederic/Preludes, Op.28/85374
+59043993b961d1cb230048a43dd16dca/Gouin, Pierre/Preludes, Op.28/66277
+5925f983cc1263590d79c15cb9de8a10/Mozart, Wolfgang Amadeus/Allegro in B-flat major, K.3/56704
+595de2c34800ad22dbee43d9d70dc77f/Beethoven, Ludwig van/Piano Sonata No.14, Op.27 No.2/32718
+596c48baeb10c9531d43405fe0478c1d/Brahms, Johannes/6 Klavierstucke, Op.118/516807
+596ef726cb4ce3f6f4ad7ad9b5d90f86/Schumann, Robert/Kinderszenen, Op.15/40336
+59a2e98b958b07324074c9fb615ff278/Bach, Johann Sebastian/Fantasia and Fugue in G minor, BWV 542/435235
+59c386b55006cccbbf3cb8f3858efde9/Gouin, Pierre/Preludes, Op.28/66277
+59e6d191911f1427b12f3346e30d6794/Bach, Johann Sebastian/Prelude and Fugue in D minor, BWV 851/01010
+59f31584c69917b15c3be3cbf79440b5/Beethoven, Ludwig van/Piano Sonata No.5, Op.10 No.1/00005
+5a4e3a38e5880b0ee21bd7ff5fc012fa/Beethoven, Ludwig van/6 Variations on 'Nel cor piu non mi sento', WoO 70/217739
+5a7efee82e02f39dbf2ef656ed89bc2f/Bach, Johann Sebastian/15 Inventions, BWV 772-786/22076
+5a980cce2e82e5a1a5a733f8d2b9b71e/Chopin, Frederic/Etudes, Op.25/60297
+5abd3b412e56f66e76f7ba2c9a5777f5/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/494709
+5afbd283977a4f91f5636743ffb9648c/Knuth, Jurgen/Notebooks for Anna Magdalena Bach/02320
+5b32871110f405afe55cf2d7dd146e18/Satie, Erik/Sonatine bureaucratique/08093
+5b518ae79ff30b40f3eea09d428c7be5/Schumann, Robert/Kreisleriana, Op.16/289792
+5b8444e05fcd2390199a0291e4e2642c/Satie, Erik/3 Veritables preludes flasques/237276
+5bee07032e05331512859d35c9a7a9b3/Chopin, Frederic/Nocturnes, Op.9/113996
+5c0b16e67f681dc02b951c9854bc08e4/Chopin, Frederic/Preludes, Op.28/79718
+5c16fa79fd8dd09a65301f19ece22c07/Chopin, Frederic/Preludes, Op.28/86359
+5c32c009c73947ec8dc4d1fa8f24ca7c/Chopin, Frederic/Nocturne in E minor, Op.72 No.1/34676
+5c97e3cd6556999224bcf934704f2ef2/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+5cd9c32313b5f58bbf4d3dd2a54e61c0/Liszt, Franz/Liebestraume, S.541/05971
+5ce050019abb0bf8eaacb2e127730ca9/Schumann, Robert/Kinderszenen, Op.15/40336
+5d0a8164ae5c1f34fce81173a5442292/Chopin, Frederic/Mazurkas, Op.24/86544
+5d10b75716b7e4ee3e7bdc3ce0e017d2/Bach, Johann Sebastian/6 Partitas, BWV 825-830/00794
+5d42ab13dbbb920af19552a65f705093/Liszt, Franz/Chanson du Bearn, S.236/13488
+5d697c7acc2d751e77c61da9ae05216e/Chopin, Frederic/Etudes, Op.25/112921
+5dd9455c5820c13970a7b9c31c15841d/Beethoven, Ludwig van/Piano Sonata No.9, Op.14 No.1/00009
+5e01fe3718dcfc19d26a8f6603acb176/Bach, Johann Sebastian/15 Inventions, BWV 772-786/18559
+5e0b2fef271f0cf84c049f79a5a9b318/Mozart, Wolfgang Amadeus/Piano Sonata No.13 in B-flat major, K.333/00222
+5e1108b24978c57a9270f82ec4298079/Bach, Johann Sebastian/15 Inventions, BWV 772-786/00895
+5e806fb1a4bbfea07bc81f29963e6564/Chopin, Frederic/Preludes, Op.28/254000
+5e8ed2acb4648d377a1143b95486c0e7/Bach, Johann Sebastian/15 Inventions, BWV 772-786/22076
+5ee768c78598d94a8e3d7e30017d60bc/Chopin, Frederic/Etudes, Op.10/86297
+5efd46504bd680235480bf40b3637965/Chopin, Frederic/Mazurkas, Op.63/398182
+5f11a057ae7a1a8371321a27ea7239e0/Chopin, Frederic/Nocturnes, Op.55/50493
+5f1d346a455b93ae93384dede41c3c72/Chopin, Frederic/Mazurkas, Op.7/29440
+5fadc3a7328c8e0a2667e0a493ac0c4d/Beethoven, Ludwig van/Piano Sonata No.8, Op.13/00008
+5fc0f22f60964fabc3609dd9ba8c27bd/Scarlatti, Domenico/Keyboard Sonata in G minor, K.4/81137
+5fd6af955c85a020919e5fb1f45043ef/Debussy, Claude/2 Arabesques/255353
+5fe55b98edc21adc4e9952e4f4168518/Bach, Johann Sebastian/Goldberg-Variationen, BWV 988/06984
+601ae980cf857f40be8c662939346be6/Beethoven, Ludwig van/Piano Sonata No.9, Op.14 No.1/243295
+601ba241b571a7cdec18d0a306a6deaa/Bach, Johann Sebastian/Prelude and Fugue in C major, BWV 846/01005
+601d91f0ddf11e8d6d697b2db14926e3/Chopin, Frederic/Preludes, Op.28/84752
+6052c9d8c81039b39a31c7c855e9a0cb/Debussy, Claude/Children's Corner/82214
+605888309dbef175b4130d3e8fb1bf8a/Beethoven, Ludwig van/Piano Sonata No.14, Op.27 No.2/90660
+607ca5ca4668495a165e13d4f17ddab5/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+60fc529f381b1ce1aaccc313215f9fb4/Bach, Johann Sebastian/15 Inventions, BWV 772-786/19938
+61211e560c0d6f297237aa9b31a31d8d/Mozart, Wolfgang Amadeus/Piano Sonata No.13 in B-flat major, K.333/00222
+6152246949284cb1320f0466f02356a8/Liszt, Franz/Soirees musicales de Rossini, S.424/67687
+6159df0416ccc0750f6d2ffa3b5d7846/Beethoven, Ludwig van/Piano Sonata No.11, Op.22/68726
+6159f9ad0150ecad95795b836ebb7ce2/Schumann, Robert/Kinderszenen, Op.15/40336
+615bb54424292f6ab4f2978cd0a81393/Chopin, Frederic/Preludes, Op.28/00485
+61657af7047afc93a375a266738f2653/Bach, Johann Sebastian/Duetto No.2 in F major, BWV 803/00820
+61a277ab49f4290d00889a49e30ab7f8/Chopin, Frederic/Piano Sonata No.2, Op.35/00494
+61e2814e04f78e9ffe296797f6d32c54/Bach, Johann Sebastian/15 Inventions, BWV 772-786/00895
+62155301125469fdf2fff2f6a2f40452/Beethoven, Ludwig van/Rondo a capriccio, Op.129/109834
+6221963ac9cca86ec7b39523d1dbc77f/Beethoven, Ludwig van/Piano Sonata No.26, Op.81a/00026
+6227949ec37491a090c591ad2c061b53/Bach, Johann Sebastian/15 Inventions, BWV 772-786/22076
+623dfff287f1e1bd17cfc6cbcbfb8547/Beethoven, Ludwig van/Piano Sonata No.26, Op.81a/51798
+6268d859de452ba386f22b4741d0cb0c/Chopin, Frederic/Nocturnes, Op.32/112742
+62858c31ec24f084f63d5575820bb9ff/Chopin, Frederic/Polonaise in A-flat major, Op.53/42524
+62d0a217f96cce9d3fd3803bffb7e759/Chopin, Frederic/Piano Sonata No.3, Op.58/113236
+631149934dd50c830ce178c6ca66879c/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+63704db50625af5d08f8c3cbde64c5ed/Brahms, Johannes/Piano Sonata No.1, Op.1/00119
+63e6f823aabe255d10614634b2da3509/Hummel, Johann Nepomuk/Fantasie in E-flat major, Op.18/03945
+644f893cf64bb25b6ac3aedef029e6e7/Bach, Johann Sebastian/15 Inventions, BWV 772-786/22076
+645ffadb73374c4e8ac90449c965770b/Bach, Johann Sebastian/Prelude and Fugue in C major, BWV 846/01005
+64718180ba450e043f03cc3a70402285/Beethoven, Ludwig van/Piano Sonata No.29, Op.106/00029
+64a87b6e1ab77803ce749289cf916b8e/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+64c78cac09237ed6a8b5fabd65ba38f8/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/36340
+64ca182091221b8e0cd938b31099f23b/Mozart, Wolfgang Amadeus/Piano Sonata No.12 in F major, K.332/00221
+64cba823e61232d6b71fbb09969919ef/Bach, Johann Sebastian/15 Inventions, BWV 772-786/22077
+64f5980e856e01f2f017c23226cec4f0/Mozart, Wolfgang Amadeus/Piano Sonata in F major, K.Anh.135/00227
+6534bdae1c3abe17997f5a346d13b06c/Liszt, Franz/Grandes etudes de Paganini, S.141/05380
+6544fce4d0145d701844896bef777aa8/Chopin, Frederic/Etudes, Op.10/168185
+654c6ac54b126c3adca202567e2f88a6/Bach, Johann Sebastian/English Suite No.1 in A major, BWV 806/02094
+6585d60587a07117e7d30102343e6cfb/Mozart, Wolfgang Amadeus/Piano Sonata No.11 in A major, K.331/00220
+659202031c2b49b90b1766d3b3d902c9/Chopin, Frederic/Etudes, Op.10/60293
+65afc264825c01d7a27024bcf84c4fd5/Debussy, Claude/Children's Corner/82215
+65e6d340e71d9777b7c6b96939ede506/Chopin, Frederic/Mazurkas, Op.63/96618
+65f35e06f00954b7ccad63ee39e0311c/Bach, Johann Sebastian/15 Sinfonias, BWV 787-801/00894
+66169be8ab2c37d0ac9326e74172b047/Beethoven, Ludwig van/Piano Sonata No.29, Op.106/00029
+66505047e1a44848e7964f93d6c6aac4/Brahms, Johannes/6 Klavierstucke, Op.118/84701
+66846fa0543abfa149b1ab9245077326/Leybach, Ignace Xavier Joseph/Nocturne No.5, Op.52/204048
+668ac7aa961b99cd64dfd91798950d27/Schumann, Robert/Kinderszenen, Op.15/40336
+66b053cd7c47e392c9d4dbc4adabb158/Liszt, Franz/God Save the Queen, S.235/05009
+6701c6931bb752be53149f3de9725119/Beethoven, Ludwig van/Piano Sonata No.14, Op.27 No.2/32717
+67158d079d452aa9add8c091e01918bc/Beethoven, Ludwig van/Piano Sonata No.14, Op.27 No.2/00014
+671920eb6f50f226e85436298ab2d276/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+6767d0a52ec6687479807e21146fd488/Liszt, Franz/Hungarian Rhapsody No.10, S.244/44868
+67a5993c74735c0856b5c061622c7c54/Mozart, Wolfgang Amadeus/Adagio in B minor, K.540/86718
+67b8632fce8c659a186f92275a293b5a/Bach, Johann Sebastian/Prelude and Fugue in F minor, BWV 881/02189
+683c6414cc8a8d49b9356230471b8fa6/Bach, Johann Sebastian/Goldberg-Variationen, BWV 988/06984
+685c98a010fc5cc7461461225ea5d41b/Brahms, Johannes/Piano Sonata No.1, Op.1/00119
+68a9b9815256ff3f4f3c10ceaf68d39c/Bach, Johann Sebastian/Capriccio in E major, BWV 993/03320
+68d5515bb5ec3162427720e9818a7597/Chopin, Frederic/Etudes, Op.25/112921
+692a3db5a9c5c8cc998836e26b0e36bb/Bach, Johann Sebastian/Prelude in G major, BWV 568/04389
+695cb00320811e1b0a31ffff67ecb6a9/Bach, Johann Sebastian/15 Inventions, BWV 772-786/396133
+696bce2604d5568fc9eb4f023ed498ab/Bach, Johann Sebastian/Toccata in F-sharp minor, BWV 910/485248
+69b9032dc61947ba162ca77f6d3b3cbb/Bach, Johann Sebastian/Prelude and Fugue in C major, BWV 846/01005
+69df67cd25dd33c12177e159a5dbbdbd/Schumann, Robert/Toccata, Op.7/00778
+6a5993ec70db2fa6b0b72aa2d76aef6b/Chopin, Frederic/Preludes, Op.28/84753
+6a6fd5d69b73376d90ae66d3b2744510/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+6acc3a4aa444dbeff7da5f58f1abb436/Beethoven, Ludwig van/Bagatelle, WoO 61a/12830
+6b0f0808a622c28ba6beddbfa8db5644/Schumann, Robert/Fantasiestucke, Op.12/224769
+6b2eeccbffd15c1aac7970e3db732843/Chopin, Frederic/Etudes, Op.25/243571
+6b31c99952b6984b3f3873944d9abe8a/Scarlatti, Domenico/Keyboard Sonata in A major, K.24/461756
+6ba5063aff3d39f7ac1bddaf40d062b1/Chopin, Frederic/Nocturnes, Op.27/115009
+6bb40fcab1f29c55f62c83ad13e42aad/Chopin, Frederic/Fantaisie-impromptu, Op.66/322650
+6c4d044e8fdec585ad765bb3b12bb8ea/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/22083
+6c6857cd6f80fe28870ac4a1682c5f2e/Mozart, Wolfgang Amadeus/Piano Sonata No.18 in D major, K.576/00229
+6c727933514a619fd8d718632c1698a9/Bach, Johann Sebastian/15 Inventions, BWV 772-786/22076
+6c8aab5c7ec78bdbbd6985ba0179c115/Clementi, Muzio/Gradus ad Parnassum, Op.44/273447
+6cc148f25ec22fb684a07f4920d3301f/Schubert, Franz/Piano Sonata No.17, D.850/00358
+6d06d66c9c8c3d399ee798b66162a0ed/Clementi, Muzio/3 Piano Sonatinas, Op.37/57570
+6d0c6fbadf35748962fb5d955dd83927/Schumann, Robert/Kinderszenen, Op.15/176120
+6d49af272ffa633dd983a9e413de9f99/Bach, Johann Sebastian/6 Partitas, BWV 825-830/00789
+6d9581530854c8226cf06999f8b2dec4/Chopin, Frederic/Etudes, Op.10/60293
+6da457736aab72fd0c0766fc45087b04/Mozart, Wolfgang Amadeus/Piano Sonata No.11 in A major, K.331/00220
+6db636790a43f697d2a45c91748dd80d/Mozart, Wolfgang Amadeus/Piano Sonata No.16 in C major, K.545/00226
+6dcd2722cfb41337acd06ce9b71c16ba/Chopin, Frederic/Etudes, Op.25/86298
+6e0dbd19662b8d32ef92a22d65df2225/Shcherbachyov, Nikolay/3 Idylles, Op.23/359438
+6e0f54b9a50b703309fef087e3db61a3/Schumann, Robert/Kinderszenen, Op.15/289791
+6e35fda8cf1181e35d1611819eec4026/Beethoven, Ludwig van/Rondo a capriccio, Op.129/02408
+6e91c0fbdd000d313e15e0ec29ee3f21/Bach, Johann Sebastian/15 Inventions, BWV 772-786/22076
+6ea7f918d21c2616aacbc769bb63988b/Schubert, Franz/Fantasie in C major, D.760/53591
+6eeba3fc8af9eb308a820283ca9f30a1/Beethoven, Ludwig van/Piano Sonata No.23, Op.57/00023
+6f252cd29578ed898d0366c0307d56b7/Chopin, Frederic/Preludes, Op.28/66277
+6f44fbd584179eae2adf45e43cc9bf6d/Liszt, Franz/Mephisto Waltz No.1, S.514/09260
+6fa3241989f32574f8f380b1bc55705e/Debussy, Claude/Suite bergamasque/46697
+6fbeb6cef226d716a7fd2975dc3b0007/Bach, Carl Philipp Emanuel/Solfeggio in C minor, H.220/02573
+6fcffaad8e7f2a228c2811c9afc68ab1/Clementi, Muzio/6 Piano Sonatinas, Op.36/29868
+6fe9bb60be6866f478d9b3a8174f1cf6/Beethoven, Ludwig van/32 Variations in C minor, WoO 80/02137
+7022c5e1569d38eb863a3699e9d5072a/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/62105
+702c2ac4d1f22dddd52673dd6305000c/Schumann, Robert/Piano Sonata No.2, Op.22/79025
+705cad1160463652398aa334ef6f0b60/Beethoven, Ludwig van/Piano Sonata in C major, WoO 51/58174
+7087272c93f8a95db61ea52f43053a1a/Chopin, Frederic/Piano Sonata No.2, Op.35/85386
+70f3494ff6c8b920e6138c5b128c3ffe/Liszt, Franz/Illustrations du Prophete, S.414/106567
+71178ab96ac290d4c04ad71287d3eb07/Chopin, Frederic/Mazurkas, Op.17/86543
+712144d3f37c87d2d2d31c464799e677/Busoni, Ferruccio/Transcription of 2 Toccatas from J.S. Bach, BV B 29/01135
+7152b3fecc51fcecf333b953830a62d0/Schumann, Robert/Kinderszenen, Op.15/40336
+71905034a423eb3c59b1dc9f14d6cdfe/Debussy, Claude/Suite bergamasque/83536
+7195252281d638ef455671e8e2afca0a/Chopin, Frederic/Scherzo No.1, Op.20/00489
+719a25d79ec4b9e439ad928b1264870b/Chopin, Frederic/Piano Sonata No.3, Op.58/130312
+71a2b005bc3fde7952b6294b52edbb6c/Clementi, Muzio/6 Piano Sonatinas, Op.36/63976
+71a50f4d0e73fd46a366167570389e93/Beethoven, Ludwig van/Piano Sonata No.8, Op.13/68721
+71aac664a6117f6aa9e399196ff586e7/Beethoven, Ludwig van/2 Rondos, Op.51/518273
+71ab2dbee21930f243872406aa356581/Beethoven, Ludwig van/Piano Sonata No.8, Op.13/00008
+71bffa5fc101906483c6a8610fe6d335/Chopin, Frederic/Impromptu No.3, Op.51/86686
+71ec1d0441620b3f811c4293a1a16e0a/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+7226a5b9c4981d90fa93d0545a422885/Mozart, Wolfgang Amadeus/Piano Sonata No.9 in D major, K.311/70207
+7269357a0ccd7a5f2b4feef8d4c89673/Chopin, Frederic/Etudes, Op.10/60293
+7282b7b445465a91e80fb5f749274cb3/Chopin, Frederic/Nocturnes, Op.48/81072
+728f7ea4db77e34faa38968c13b93078/Bach, Johann Sebastian/Prelude and Fugue in B major, BWV 868/01027
+72928b9b7a65502426900d24f2503ae3/Mozart, Wolfgang Amadeus/Piano Sonata No.16 in C major, K.545/70214
+72b72e4c9925380df6867bc118e1bdf8/Bach, Johann Sebastian/15 Inventions, BWV 772-786/22076
+72bc00fff4857bd8a4ee2aaa261f66a4/Chopin, Frederic/Preludes, Op.28/84752
+72c1f89dcaf1b8939f64a790040ab4ac/Bach, Johann Sebastian/English Suite No.3 in G minor, BWV 808/02096
+72d3365e32d8228d8307619ddb0ad059/Beethoven, Ludwig van/Piano Sonata No.17, Op.31 No.2/328874
+72df9cb5fa25450234d8e4f852922579/Debussy, Claude/Suite bergamasque/46697
+72ef10ae0568f84c43c6d88af2b7dad1/Beethoven, Ludwig van/Piano Sonata No.5, Op.10 No.1/68715
+73827b23d1df47d979cd10b19a1c36a6/Bach, Johann Sebastian/Prelude and Fugue in C minor, BWV 871/29931
+739e11db02150d8e4a31f9da7219e1d0/Bach, Johann Sebastian/Prelude and Fugue in F major, BWV 856/02216
+73a685f371dbcc1fc65f321088ed2b69/Bach, Johann Sebastian/15 Inventions, BWV 772-786/396133
+742e697ff78974d7f61a6018c12e3d7a/Bach, Johann Sebastian/Prelude and Fugue in G minor, BWV 861/01020
+746aaef8e938100d04f02bfd97f99aa8/Bach, Johann Sebastian/Passacaglia in D minor, BWV Anh.182/06407
+748f38dd746ad30dcf062b063010151d/Bach, Johann Sebastian/Prelude and Fugue in C major, BWV 846/01005
+75027b7fc00059e0b805298a53d18732/Bach, Johann Sebastian/Prelude and Fugue in F minor, BWV 857/02217
+75069cf2d893f2c477175ead7126fa91/Bach, Johann Sebastian/French Suite No.1 in D minor, BWV 812/02100
+753276aeddcaa2fa38a56fa9bc3e3cad/Bach, Johann Sebastian/15 Inventions, BWV 772-786/00895
+756c2ff441f782cc8fcbdf8bfa94209f/Schumann, Robert/Kinderszenen, Op.15/40336
+75ebdca51207dc7dfd7e22fc90bec20b/Debussy, Claude/Suite bergamasque/46697
+75f34aa8055a4105e7f5635eda3b830e/Bach, Carl Philipp Emanuel/Solfeggio in C minor, H.220/379620
+75ff400ea853856778e7a198840a54ca/Chopin, Frederic/Scherzo No.4, Op.54/114448
+762ff483b6efef051476813c8cda2162/Liszt, Franz/Album d'un voyageur, S.156/04094
+7634411ca9b9dd0c8cc0290e865d57d1/Bach, Johann Sebastian/15 Inventions, BWV 772-786/22076
+76392d52db2a93f8cc390115360b105a/Schumann, Robert/Fantasiestucke, Op.12/00777
+7641f688b50648a4a5454b7f4f35b295/Schumann, Robert/Kinderszenen, Op.15/40336
+76d93d0404a0fa05a3f314ade9aaba6d/Debussy, Claude/Children's Corner/82214
+771efed758f8f5f7bac18d6039e38a8c/Chopin, Frederic/Mazurkas, Op.7/29440
+783c52da58a3f92fa73b6ce5fc8de4eb/Beethoven, Ludwig van/Piano Sonata No.14, Op.27 No.2/00014
+783d33933753df696936e9545801ad5b/Bach, Johann Sebastian/Goldberg-Variationen, BWV 988/06984
+78684d413c391d4fcdf3c829d38f6f3f/Debussy, Claude/Pour le piano/57634
+787accb3355df96d6c22ef4fec6ef157/Chopin, Frederic/Grande valse brillante, Op.18/79744
+78bbc2489543659007072dc8ab8c0fcd/Grieg, Edvard/Lyric Pieces, Op.65/181323
+78d348f14dccc63b8cb83c7a0802680a/Mozart, Wolfgang Amadeus/Piano Sonata No.10 in C major, K.330/56319
+790fcd8ed1f06b9acf1173005085384b/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+7915f2d2d46f5696aef22b9fa3e6a28c/Satie, Erik/3 Sarabandes/08097
+795c7f68ecff05e5a5d347de52fcd25f/Liszt, Franz/Hungarian Rhapsody No.15, S.244/58324
+7986bbd7f8cc8b06446fdcc35e812fd2/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+7988e41145dfa875a09bd5d23a877885/Beethoven, Ludwig van/Piano Sonata No.23, Op.57/00023
+79e5e0755d9b16e08c0b473e369e7fb3/Debussy, Claude/Images, 1ere serie/254386
+79fe7d766f379a31e31b00d39c12f92b/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/494709
+7a362ce2d8f9f45433a54c1617062443/Mozart, Wolfgang Amadeus/Piano Sonata No.13 in B-flat major, K.333/00222
+7a8054339707f035ec3256fdc3b56468/Bach, Johann Sebastian/Sonata in D major, BWV 963/03288
+7ab61835498cb8c1ade4dbdd639dd39f/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/494709
+7acfe3f050f0ff977ff3589058432aca/Chopin, Frederic/Etudes, Op.10/37119
+7aff5724f43acc2c43d485c27b9ea7c7/Clementi, Muzio/6 Piano Sonatinas, Op.36/63976
+7b14ccd7f70752db4d58136f5b6b16aa/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/36337
+7b510e833a516e26222c2745f5b481bd/Bach, Johann Sebastian/15 Sinfonias, BWV 787-801/00894
+7b916792dfd1153449ef70fd76a3e200/Bach, Johann Sebastian/6 Partitas, BWV 825-830/62575
+7bb7a753087741534ac915f674e813b9/Bach, Johann Sebastian/Goldberg-Variationen, BWV 988/06984
+7bd511bbe3df0b6221bb5102663c1ac7/Liszt, Franz/Valse-Impromptu, S.213/89661
+7c1aafa7fc8ce9cc75f564a79dc9c102/Brahms, Johannes/Piano Sonata No.2, Op.2/00120
+7c235d6aed33a2b27b625ae58448b860/Bach, Johann Sebastian/Prelude and Fugue in A-flat major, BWV 862/02222
+7c2c2c6632e71cb697c110bddeda391e/Mozart, Wolfgang Amadeus/Piano Sonata No.10 in C major, K.330/70208
+7c4e61365c4f6b6580f726cc1334db70/Beethoven, Ludwig van/Piano Sonata No.14, Op.27 No.2/68732
+7ce089ffdea1cb761433b6181eb8cca0/Chopin, Frederic/Mazurkas, Op.33/69194
+7d039ab37ae2c988746e34ae7c0cebc7/Beethoven, Ludwig van/Piano Sonata in C major, WoO 51/58225
+7d153704bf48944be0a2a32f0d473557/Debussy, Claude/2 Arabesques/82212
+7d22c081aacd0d39927e0bbe41a453a0/Mozart, Wolfgang Amadeus/Piano Sonata No.18 in D major, K.576/56445
+7d399cb0ecca6ceda1376f737aa000ee/Clementi, Muzio/6 Piano Sonatinas, Op.36/63976
+7d53fdce6f2a92716b1855a8571a0ae6/Beethoven, Ludwig van/Piano Sonata No.13, Op.27 No.1/03093
+7d5abde836983dc6f9ceedeb25e0ed59/Beethoven, Ludwig van/Piano Sonata No.11, Op.22/00011
+7d5d8edf4794003a0e9593dab2f00c16/Bach, Johann Sebastian/English Suite No.1 in A major, BWV 806/02094
+7d86f62926caab3eaa4293116ba3ffc9/Bach, Johann Sebastian/Partita in A minor, BWV 827/18994
+7d8777735578df1b052739e6ae1387bf/Mozart, Wolfgang Amadeus/Piano Sonata No.16 in C major, K.545/00226
+7dd7d3b25ebb46760ffd26a4c21ce410/Bach, Johann Sebastian/Overture in F major, BWV 820/02289
+7e3bdef2aa98e9656526e778cd105211/Schumann, Robert/Kinderszenen, Op.15/40336
+7e4157616a80f01d70027c34e4036a8a/Beethoven, Ludwig van/Piano Sonata No.11, Op.22/00011
+7e43a3d3e2aba1c3bcfe156fe55cb170/Chopin, Frederic/Etudes, Op.10/60293
+7f6806c85759299637e6e1f01c01ffd9/Chopin, Frederic/Scherzo No.2, Op.31/86689
+7f89fd0ba9b8ef2aa6ef0b5254cd7358/Schumann, Robert/Kinderszenen, Op.15/289791
+7fac03ffa272c25d809c2b758425a8e3/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+7fc6f5701cd6ca10849be8cbfc3256af/Bach, Johann Sebastian/English Suite No.1 in A major, BWV 806/02094
+7fc838824ef5684f39ed50b6736c885e/Bach, Johann Sebastian/15 Sinfonias, BWV 787-801/00894
+7ffb0d7aa6a23efe10f00b85a47db31c/Liszt, Franz/Grandes etudes de Paganini, S.141/00597
+806767f9fd7c31cea2787e6f1d39fd73/Chopin, Frederic/Etudes, Op.25/112921
+8081bbc9b20426b9bb38c7c161b039b5/Beethoven, Ludwig van/Piano Sonata No.11, Op.22/03075
+80c0b6cb0f6a2d8f7e96809789c923fb/Mozart, Wolfgang Amadeus/12 Variations on "Ah, vous dirai-je maman", K.265/86720
+80caa82bbf9a7a529067af628a2400e5/Chopin, Frederic/Nocturnes, Op.27/115009
+8104c8baabfce0a99d58dee5d488801b/Mozart, Wolfgang Amadeus/Fugue in G minor, K.401/56703
+8149160b5954d4d0e55aeecc3f467d37/Liszt, Franz/3 Etudes de concert, S.144/140684
+815834b585d6315802e1d073a2b43397/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+816a15ca63b22e6d8cc7d44971aaac90/Mozart, Wolfgang Amadeus/Piano Sonata No.16 in C major, K.545/70214
+816f3128fcdd91a1063858e4c5d2f70a/Liszt, Franz/Etudes d'execution transcendante d'apres Paganini, S.140/55300
+827c960f3caa35b8b6bff580df825571/Bach, Johann Sebastian/15 Sinfonias, BWV 787-801/00894
+82e62182dc3b3a6af56198c878a81936/Chopin, Frederic/Preludes, Op.28/00485
+82ed9170fb3bd6154274f2ba20e0c5e2/Schumann, Robert/Kinderszenen, Op.15/40336
+82ffafe6e01c6e17d7ba0752b8a976fa/Bach, Johann Sebastian/Duetto No.2 in F major, BWV 803/00820
+83460f9160b60d48694602f122eab06b/Beethoven, Ludwig van/Bagatelle, WoO 56/93421
+838787f937de1432c263bad4b32fe79b/Mozart, Wolfgang Amadeus/Piano Sonata No.14 in C minor, K.457/421441
+83b0df818cc1914a8a2288a2ed5c0459/Beethoven, Ludwig van/Piano Sonata No.11, Op.22/00011
+8409d77957ba3aa07cd787297c45a499/Beethoven, Ludwig van/Piano Sonata No.26, Op.81a/69589
+841105bd9ee86f1000831bd0640b5bd8/Mozart, Wolfgang Amadeus/12 Variations on "Ah, vous dirai-je maman", K.265/40557
+8492b8be205719287163654e21450162/Liszt, Franz/2 Stucke aus Tannhauser und Lohengrin, S.445/302467
+849ff450189b2bf176582b892ac08673/Beethoven, Ludwig van/Piano Sonata No.8, Op.13/243128
+851c5088e7138b1667dbafd69d497ca2/Beethoven, Ludwig van/Piano Sonata No.11, Op.22/243297
+852bbad4fc0e75c447d3b4159070354d/Chopin, Frederic/Etudes, Op.25/447366
+853ab3779af586951901b8c1dc7a2c83/Bach, Johann Sebastian/Sonata in A minor, BWV 965/05831
+85a4afce4e294b5381a4b3255f7694f0/Schumann, Robert/Kreisleriana, Op.16/70919
+85ac2db102693846ed8d176f8eb48165/Bach, Johann Sebastian/Prelude and Fugue in G major, BWV 860/01019
+85dcaba96f02bb6e8ca9c54aeb31a9f4/Liszt, Franz/Grandes etudes de Paganini, S.141/00597
+863c647e45a5fcb6758df33e08a814ed/Bach, Johann Sebastian/Prelude and Fugue in E-flat minor, BWV 853/01012
+863d8e08e94c1b9ee6117137d9f7a80e/Haydn, Joseph/Divertimento in G major, Hob.XVI:8/471961
+86426885ee6f56d4056805da84869e7b/Liszt, Franz/Grandes etudes de Paganini, S.141/36690
+864fe227121ca1589aa22c517c56220a/Beethoven, Ludwig van/Piano Sonata No.14, Op.27 No.2/32717
+8670fa9096c501577788640f546d3e35/Beethoven, Ludwig van/7 Bagatelles, Op.33/58117
+867ad2e4c79a59a090af3ba89074f0ad/Beethoven, Ludwig van/Piano Sonata No.11, Op.22/00011
+86b2f814bd30f2b2450e0d64ed052c3a/Burgmuller, Friedrich/18 Etudes, Op.109/09551
+86bd663da89e429115be9fb61269695c/Schumann, Robert/Kinderszenen, Op.15/40336
+87024ba1a3c75cf14b69ed69e959fc5e/Debussy, Claude/Children's Corner/82214
+8736b3513d2ecd8100c866c205cfb294/Debussy, Claude/Suite bergamasque/83536
+8752018dbab5aa02c6aa321a735ac264/Schumann, Robert/Fantasiestucke, Op.12/331140
+875205e57ee8f7412777e4398399c611/Chopin, Frederic/Nocturnes, Op.27/115009
+87758eafd58cf218826a62732094ff9f/Chopin, Frederic/Etudes, Op.25/113725
+87f3b30a120a85fa4997968e8b8c6e56/Bach, Johann Sebastian/15 Sinfonias, BWV 787-801/00894
+881e71aece554503d443c8a825a1756e/Bach, Johann Sebastian/Prelude and Fugue in B minor, BWV 893/02201
+88424341195c2a06e27d3f7a483d4d0f/Liszt, Franz/Etudes d'execution transcendante, S.139/67095
+88503d40921f23614a63dc4d92b0aca9/Chopin, Frederic/Mazurkas, Op.67/135168
+88558e61a5a45d896b26944f8b6828ac/Beethoven, Ludwig van/7 Bagatelles, Op.33/58117
+885870233a8710be685fa1a2a3c56ae4/Beethoven, Ludwig van/Piano Sonata No.14, Op.27 No.2/90660
+885f61528e11fd5574b39219f71a7f43/Chopin, Frederic/Etudes, Op.10/168185
+8872ab90be6282faf8787bbc6b5ea90a/Schubert, Franz/Fantasie in C major, D.760/53591
+88f591169f213c32a76f6d4050aca426/Brahms, Johannes/Piano Sonata No.3, Op.5/00121
+8943cd24dcc22ca7941c7f7fad92596d/Chopin, Frederic/Mazurkas, Op.56/00450
+894e5f5bb72de1949be600317a7929f6/Liszt, Franz/Mephisto Waltz No.1, S.514/89659
+895d4e81bbae5c9c0b8c3b5b93b37339/Beethoven, Ludwig van/Piano Sonata No.8, Op.13/00008
+896be4119efe2d4f77e90b7dcfa557ca/Bach, Johann Sebastian/Toccata in E minor, BWV 914/485255
+8990a76b58484bf566f021a0f8fd3d98/Bach, Johann Sebastian/Prelude and Fugue in F major, BWV 856/01015
+899e89b9a4fb0c9d595bf3157fc5df3f/Chopin, Frederic/Mazurkas, Op.7/29440
+89d9faaacb294a5023deb41fdf9e83eb/Haydn, Joseph/Divertimento in C major, Hob.XVI:7/471958
+8a5aa2d153872d6d567ce5a531bd1bb1/Chopin, Frederic/Etudes, Op.10/86297
+8a632b84821fd2cf974c9e5baffb0e9d/Chopin, Frederic/Nocturnes, Op.55/00467
+8a917d68ab4ba38c98b42fc510805c31/Mozart, Wolfgang Amadeus/Piano Sonata No.16 in C major, K.545/70214
+8a931c9759fb90f89e1ce774a1557713/Brahms, Johannes/Piano Sonata No.1, Op.1/00119
+8b4663db9739f1e18c022e440448b20c/Bach, Johann Sebastian/Toccata in F-sharp minor, BWV 910/485248
+8b4e1137cd0ff9c9214195ba5af73878/Bach, Johann Sebastian/Prelude and Fugue in E-flat major, BWV 852/02212
+8b5069dad3e1e65c5191ada3e365b3fe/Brahms, Johannes/Piano Sonata No.1, Op.1/06091
+8b63b81983df53750eeb2d5bb64f4a01/Haydn, Joseph/Keyboard Sonata in D major, Hob.XVI:37/471777
+8b70aed080be9907e6ee17e4214d0439/Bach, Johann Sebastian/Duetto No.1 in E minor, BWV 802/00819
+8b79e49a6aee89705b7cf1837be23d8a/Liszt, Franz/Annees de pelerinage II, S.161/77320
+8b8e022eafac93ae88fb143a9e303e86/Chopin, Frederic/Preludes, Op.28/00485
+8b919bfb0131038edd6802f08d0fd524/Chopin, Frederic/Nocturne in E minor, Op.72 No.1/34677
+8baa65142fed0d1900cabbc45837edb8/Bach, Johann Sebastian/15 Inventions, BWV 772-786/22076
+8c5ec02770ea178acddc482d49b9625b/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/494709
+8cfe8542caa69a0f5727dbd47dbddd34/Chopin, Frederic/Preludes, Op.28/00485
+8d791bd5e43e21db1b0a78152721179c/Bach, Johann Sebastian/Prelude and Fugue in B-flat major, BWV 866/01025
+8d7e77d64d1cac2e6f9a44d050f7ab2a/Schumann, Robert/Kinderszenen, Op.15/00720
+8d8f788f7a91c3e75766892294cfa13e/Mozart, Wolfgang Amadeus/Piano Sonata No.10 in C major, K.330/70208
+8d951c985db4621ae8f0ed94207cf23e/Mozart, Wolfgang Amadeus/Piano Sonata No.11 in A major, K.331/00220
+8da9fbf3b392c5c053a4871ec7a72e54/Beethoven, Ludwig van/7 Bagatelles, Op.33/00947
+8dbf0a6ecc1b8466152234e4102bd718/Chopin, Frederic/Preludes, Op.28/84752
+8dce729d97d8a671b0dcc0b0e277af4f/Mozart, Wolfgang Amadeus/Piano Sonata No.17 in B-flat major, K.570/70215
+8e148568b575cb9d95483ec666e73e8f/Albeniz, Isaac/Suite Espanola No.1, Op.47/188371
+8e362fad27e7c4c3960e1bec0bb45f94/Bach, Johann Sebastian/Partita in E minor, BWV 830/00793
+8e5ad0197671b76df4e9701b8e374e83/Mozart, Wolfgang Amadeus/5 Variations on "Salve tu Domine", K.398/56889
+8e62abbc365df06a7927dc7a1f0674f7/Liszt, Franz/Liebestraume, S.541/04459
+8e7cc5cd8e6071a056b7c27508a3ce4f/Brahms, Johannes/3 Intermezzi, Op.117/84694
+8eb6f836239315395dcc9fb2336bc17b/Schumann, Robert/Kinderszenen, Op.15/40336
+8ebf21707412fa71a6dd027b99f8eecc/Chopin, Frederic/Etudes, Op.25/112347
+8ed090db719773ce96918b1f4b18ec0d/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/36339
+8eedb68753487cbc2276f174b3276ca4/Bach, Johann Sebastian/Prelude and Fugue in B-flat minor, BWV 867/02227
+8f3d796c06bba6d0e18b821768c0172f/Beethoven, Ludwig van/Prelude, WoO 55/58215
+8f6bd6dae9471014d496ffb42bae2f0f/Bach, Johann Sebastian/Prelude and Fugue in F major, BWV 880/02188
+8f6c742d3eb98e88c0092396f39d69a7/Bach, Johann Ernst/Fantasie and Fugue/12037
+8fa7469b25edadafdadcda7488a960b1/Chopin, Frederic/Nocturnes, Op.9/86550
+8fdc7310df8feec9cd8d32b599106277/Beethoven, Ludwig van/Piano Sonata No.23, Op.57/00023
+901c0a3f73d68b94d8f94d371619637c/Beethoven, Ludwig van/7 Bagatelles, Op.33/00947
+9062106499e3d89413508e038f9638b6/Clementi, Muzio/6 Piano Sonatinas, Op.36/63976
+906be4c7fd0c50ef9a4473ce01d2ee21/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/494709
+906d56d1700acb98cde2fd2b52f454f0/Brahms, Johannes/Piano Sonata No.1, Op.1/107601
+906e73c669f6ed6046a3671bef5a0f9e/Chopin, Frederic/Fantaisie-impromptu, Op.66/59197
+90b75bf0066f546dcf542cbe4d515a0c/Clementi, Muzio/6 Piano Sonatinas, Op.36/73600
+90c48e13f96588c1f422665e3ee0af71/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/494709
+90c6e81472de49d24187f3adb6ac5888/Schumann, Robert/Kinderszenen, Op.15/40336
+90d44cc0109d59471ef0fc5b3568bc0d/Mozart, Wolfgang Amadeus/Rondo in D major, K.485/474236
+90d81266c027e96597eb8787aa5dd956/Beethoven, Ludwig van/Piano Sonata No.23, Op.57/69585
+910dc640385605a119a91bf0b4e31235/Beethoven, Ludwig van/Piano Sonata No.14, Op.27 No.2/90660
+915fe3c79da65c279cf9b8f182a0e0c5/Bach, Johann Sebastian/Prelude and Fughetta in G major, BWV 902/03197
+91b0fdb0483c19d0e361bafbd920fade/Chopin, Frederic/Scherzo No.2, Op.31/00490
+91b588d94cab2993ecd9787f4ef7be21/Chopin, Frederic/Mazurkas, Op.7/29440
+91ea37f5b16354238a317a4b711b7d4c/Chopin, Frederic/Preludes, Op.28/00485
+9259b38f03efb4db2fd3a03e5d3ca1fb/Beethoven, Ludwig van/Piano Sonata No.29, Op.106/00029
+925e6fcf9791315deddcc364b9d6b311/Chopin, Frederic/Nocturnes, Op.55/50493
+927d3ab4cb1ff0eb28bd466fbccd8922/Clementi, Muzio/6 Piano Sonatinas, Op.36/63976
+92a202ca89a580c3eb0d6386d63fe16e/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+92b4d3ca52a649377c756115088ddf06/Beethoven, Ludwig van/Piano Sonata No.14, Op.27 No.2/90660
+92d2aad6eda8fc48a5c2db3b9777de2c/Brahms, Johannes/6 Klavierstucke, Op.118/516807
+92f2349bfd69639330253bb21858d3c2/Chopin, Frederic/Polonaise in A-flat major, Op.53/42524
+93478f1e8cfc6f676177836e062cfe9b/Liszt, Franz/Grandes etudes, S.137/04578
+93bc1ef0b94d6b17033bcbce7209cddc/Bach, Johann Sebastian/15 Inventions, BWV 772-786/42098
+93fedc35b657bf60a6303feeaaa59201/Chopin, Frederic/Preludes, Op.28/79718
+943c6d6e6411064ce7dfa78e231f546c/Liszt, Franz/2 Konzertetuden, S.145/55312
+94410b317b6ff662bd58adf6bb32b840/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/69276
+95207cd84fb1a22e7c6652f278401092/Mozart, Wolfgang Amadeus/Piano Sonata No.11 in A major, K.331/70209
+95683b0d1b76e8a62bd2f91ad9d07f3e/Bach, Johann Sebastian/15 Inventions, BWV 772-786/22076
+95d017c3962dea1cb58bcc4b3e16248e/Beethoven, Ludwig van/7 Bagatelles, Op.33/58117
+96096dcf64e96752332eb1b09ea6a505/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+967bf6f707d7b770790f6bb22c28aa1f/Debussy, Claude/Children's Corner/82215
+968d54927344174153b296157df949cf/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/494709
+969b02adb4855bbdb402464b287e980d/Satie, Erik/4 Ogives/92062
+96f32ad88440b16bc402543001693acc/Schumann, Robert/Kreisleriana, Op.16/70917
+97b5b4e968f391b57c2759a09a319fdc/Beethoven, Ludwig van/Piano Sonata No.11, Op.22/68726
+98116f41dde66eaaeed7e27e11b0160f/Bach, Johann Sebastian/15 Inventions, BWV 772-786/42098
+981250920ba190cdf4ed5030764ae9c5/Mills, Sebastian Bach/Fascination, Op.30/115311
+982c75a78369ae288136d7280fa77e84/Chopin, Frederic/Preludes, Op.28/00485
+98592df7111990d1bab39fb17f0c8fbf/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/36338
+988693cf1788b337a5cf486941734e65/Clementi, Muzio/Piano Sonata, Op.26/400281
+989ee7c484282ca150e1bdba9a9a01e0/Beethoven, Ludwig van/6 Ecossaises, WoO 83/53185
+98a5c2c57bf9c4f7db9af54f801db888/Schumann, Robert/Kreisleriana, Op.16/70917
+98cb57af2171297d92b0c02d67323462/Bach, Johann Sebastian/English Suite No.1 in A major, BWV 806/02094
+98d64deaf7678c9841e8b64fc967b53a/Brahms, Johannes/2 Rhapsodies, Op.79/516783
+98f25e3b7156ec973b6b655138872d78/Bach, Johann Sebastian/Invention in G major, BWV 781/00757
+98f98f28c8850f0ad9e902a9b62e65e4/Liszt, Franz/Grandes etudes de Paganini, S.141/139909
+990ee74eb4ff0edff7c98b66ad44cadd/Beethoven, Ludwig van/Piano Sonata No.14, Op.27 No.2/32717
+9914966a75ad4c40c088c203450bd394/Liszt, Franz/Liebestraume, S.541/13737
+991f67bb192b2e061cdc11ffc4d2a040/Schumann, Robert/Kinderszenen, Op.15/40336
+9932e8e630482f6817b95c2dd58c1c13/Scarlatti, Domenico/Keyboard Sonata in C major, K.159/376339
+995f189cead0f09e93aa52f6b9d7b8ee/Liszt, Franz/Valse-Impromptu, S.213/89662
+99bf883b585d436d7fddd03d84c23073/Bach, Johann Sebastian/Prelude and Fugue in C major, BWV 846/01005
+99d6a30574632a4c63f2adeadef01f8b/Chopin, Frederic/Preludes, Op.28/86359
+99ecb51d0ec746fa47a4ba500978b608/Debussy, Claude/Preludes, Livre 2/61353
+9a692a0f2bed373a532b93176f4192eb/Chopin, Frederic/Preludes, Op.28/79718
+9a71bfdf56591a42a41e7257fd4ee883/Clementi, Muzio/Piano Sonata, Op.26/55292
+9adfafec3f2bfa24fadf6bc6bf303ebd/Bach, Johann Sebastian/15 Inventions, BWV 772-786/00895
+9af1c1024f3252748e6febbb1584d2ec/Chopin, Frederic/Preludes, Op.28/00485
+9b07f8efb7b89fcaf64ce6fc17e2610e/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/494709
+9b2ea1c642d25a80f47e6c0c54b3c1c7/Chopin, Frederic/Preludes, Op.28/66277
+9b66b86a7889ed32c77e0977af018271/Chopin, Frederic/Etudes, Op.10/112344
+9b6d3a278df0c7b9342b367e1c026626/Bach, Johann Sebastian/Prelude and Fugue in F major, BWV 856/02216
+9bd72070773d42f0ce0df379fffdbe15/Beethoven, Ludwig van/Fur Elise, WoO 59/318757
+9be6eb105a72714d95055a09db04da2d/Beethoven, Ludwig van/Piano Sonata No.26, Op.81a/00026
+9c4d03de8c121c508c4cf6408fffc588/Bach, Johann Sebastian/Prelude and Fugue in G major, BWV 860/01019
+9c6bd9c842d96f969896d6371b29a4f4/Bach, Johann Sebastian/Prelude and Fugue in C-sharp minor, BWV 849/02209
+9c9f5064300ec7a982862ebdf55806ed/Bach, Johann Sebastian/15 Inventions, BWV 772-786/42098
+9ccda6c76c5877cd5962be01462ff5d3/Bach, Johann Sebastian/15 Sinfonias, BWV 787-801/00894
+9ceac3d69f778a17978536cfc08aa0cd/Brahms, Johannes/3 Intermezzi, Op.117/311063
+9cf649b2a4c36f61fbeae832224504a4/Chopin, Frederic/Nocturnes, Op.37/80946
+9d9996637303882701b06d2a99bce864/Beethoven, Ludwig van/Fur Elise, WoO 59/11471
+9dec89ccb7fd8925046f772c48222ad4/Erbach, Christian/3 Introitus mit Versus/109118
+9e090d9ea58c413011a0bffb7f1a6368/Chopin, Frederic/Preludes, Op.28/79718
+9e70775c7e328165b7819b21d674d1c7/Chopin, Frederic/Etudes, Op.25/447366
+9e9a612991780b79d32ca5a8e7ebbf28/Chopin, Frederic/Preludes, Op.28/00485
+9e9eb87b89391a4837250bbef1fa886c/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+9ec08e69d5600e654977faf1efd7fa68/Beethoven, Ludwig van/Piano Sonata No.1, Op.2 No.1/27752
+9ec408bd812f09c9cab6dfe04ee469a9/Liszt, Franz/Album d'un voyageur, S.156/04094
+9f4519582b31581930abd5854cc256d1/Debussy, Claude/Suite bergamasque/46697
+9f56670cfd20fa5dd3df105d60cd187b/Beethoven, Ludwig van/2 Rondos, Op.51/518273
+9f717c9c4987f2ccc8a8ac4feb108d64/Brahms, Johannes/3 Intermezzi, Op.117/01516
+9fa6d03382c027c16991037a29cb2254/Chopin, Frederic/Polonaises, Op.40/73118
+a03e9ebdacec9e844e3bb10b62abab03/Chopin, Frederic/Etudes, Op.10/168185
+a091ddb3c20a52f2eb98d8937386ec60/Chopin, Frederic/Preludes, Op.28/00485
+a092a7bc4d897429a7c77744f59b4189/Satie, Erik/4 Ogives/92062
+a0ac55954ec1037dc6d1408f675fe0e9/Schumann, Robert/Kinderszenen, Op.15/40336
+a0c7746fcd03773057254e09035ee078/Chopin, Frederic/Piano Sonata No.2, Op.35/114617
+a110f9c512c67eae6548ed16eecd3692/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+a121e0ba08196c0a052fe7f3518f710d/Chopin, Frederic/Preludes, Op.28/84752
+a1466ae4cd0bd62024da0f3a83fbce59/Beethoven, Ludwig van/Andante favori, WoO 57/109835
+a14f42e54530d49e4b5ac92b8a9e2cd3/Liszt, Franz/Harmonies poetiques et religieuses III, S.173/00394
+a1814d0a77a93261dd579b01be7da808/Bartok, Bela/2 Romanian Dances, Op.8a/12641
+a18c37d03c8804e65aecbdadc9a9ac90/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+a1990b8422a18dbdf2875a94b2983bed/Brahms, Johannes/6 Klavierstucke, Op.118/516807
+a1a2af1b96c15b1bb514f248b2d16d92/Chopin, Frederic/Ballade No.1, Op.23/86692
+a1a64d7bba1b45fa6993dfa0514a65a8/Liszt, Franz/Grandes etudes de Paganini, S.141/55303
+a1db5a886367c0d871d21728c332e77f/Chopin, Frederic/Preludes, Op.28/00485
+a20fa58b908223c56b307e8ef3cdb76a/Bach, Johann Sebastian/Partita in E minor, BWV 830/00793
+a227c001a6252950a6265ec3b3b7ead8/Chopin, Frederic/Preludes, Op.28/00485
+a2a4e8b90e1dc1be5d9229efa9545806/Beethoven, Ludwig van/Piano Sonata No.31, Op.110/02022
+a2f8db70479cf399014c8035289a56db/Mozart, Wolfgang Amadeus/Piano Sonata No.1 in C major, K.279/70198
+a3099e00e3e2c86238f38d3f316d0832/Chopin, Frederic/Etudes, Op.25/447366
+a310d43d000e60d8394a427f568209e8/Bach, Johann Sebastian/6 Partitas, BWV 825-830/00794
+a3374e94b967a28855b847ac58754ffe/Chopin, Frederic/Piano Sonata No.2, Op.35/85386
+a3379f92ded1a7562a690fda80097313/Debussy, Claude/Suite bergamasque/46697
+a356ed799e9047e573663b9ccc402c2c/Mozart, Wolfgang Amadeus/Piano Sonata No.12 in F major, K.332/70210
+a35d7bc191676344bab3dbeafd931460/Bach, Johann Sebastian/Goldberg-Variationen, BWV 988/06984
+a36428fd1271c4d3876bd9b9b744f008/Chopin, Frederic/Mazurkas, Op.59/142724
+a3658e83beb6addff990e979f9829f55/Beethoven, Ludwig van/Piano Sonata No.5, Op.10 No.1/00005
+a37cd674c6c71a5d8eed51baacd7cfe2/Chopin, Frederic/Mazurkas, Op.33/69195
+a37efc6ee0b7f674dbf6e3f460ec1117/Burgmuller, Friedrich/18 Etudes, Op.109/09551
+a3817048b304113d01768f04417d5a98/Mozart, Wolfgang Amadeus/Minuet in F major, K.4/56678
+a38201e067fb3eb9a32f8181cd84855f/Bach, Johann Sebastian/Prelude and Fugue in E minor, BWV 879/02187
+a3e2fd637c8bfaf9739e9a06a10c4343/Debussy, Claude/Suite bergamasque/46697
+a3e7122a031aa9c4a10e0b554a4961bd/Bach, Johann Sebastian/Goldberg-Variationen, BWV 988/06984
+a41b348f8422c0cd04367240b6dcb694/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+a49e149bd0f794bcbd56b504742bc569/Chopin, Frederic/Waltzes, Op.64/447395
+a4a84a2b4508ec2b489125cb6b48b524/Beethoven, Ludwig van/Piano Sonata No.21, Op.53/00021
+a4b77a742831cb2204dd47be62e115a5/Schumann, Robert/Kinderszenen, Op.15/40336
+a4bee139731cef1e58250c7cc696165e/Clementi, Muzio/6 Piano Sonatinas, Op.36/29868
+a5721749916d209834b081b23253b9c5/Bach, Johann Sebastian/15 Sinfonias, BWV 787-801/00894
+a61b9ad242b38e7cceb5e0b0bcdeaddb/Brahms, Johannes/7 Fantasien, Op.116/08447
+a61c6da14d704a8d7cac85499feac7f5/Chopin, Frederic/Preludes, Op.28/00485
+a6302a19e4e454c46cb68763401c0364/Bach, Johann Sebastian/Goldberg-Variationen, BWV 988/06984
+a64af0bbb252eecc83b1c33bc8b0a012/Haydn, Joseph/Divertimento in C major, Hob.XVI:7/471958
+a6bb7fc802bcdd6ac184095c97cd478e/Beethoven, Ludwig van/2 Rondos, Op.51/518273
+a6be453478e4f8b287a2b2cd32c98ac7/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+a6e01a90e103bbb9d4415619f0407d1f/Bach, Johann Sebastian/Prelude and Fugue in F major, BWV 856/02216
+a7412a18e6da97f1c2276e3f7a2760fe/Beethoven, Ludwig van/Rondo, WoO 48/12823
+a7621622c269242b7a49d3c0f5f82c4b/Chopin, Frederic/Scherzo No.2, Op.31/74964
+a7a0f9e31273716d9b6609561cb46831/Clementi, Muzio/6 Piano Sonatinas, Op.36/63976
+a7b72e5509d06bbedf0418cfd7360ac6/Bach, Johann Sebastian/Goldberg-Variationen, BWV 988/06984
+a7c029ccf7ba088a7cd4f1dbaf0f9e9d/Liszt, Franz/Album d'un voyageur, S.156/31519
+a7d41819e3606441ddbb59e5bf6a2678/Bach, Johann Sebastian/15 Inventions, BWV 772-786/00895
+a7d75103e70b9b405587d2f7a3521f3a/Chopin, Frederic/Mazurkas, Op.17/113863
+a7d83732e8922dba66687b2b3511fc8a/Chopin, Frederic/Mazurkas, Op.41/00457
+a82709c393c4bf42e6e1b20de9835ada/Schubert, Franz/4 Impromptus, D.899/239051
+a841e58a1cb1aceda99a98a031aed0a9/Liszt, Franz/Etudes d'execution transcendante, S.139/67094
+a85779411844b2b567750617c64ff17e/Mozart, Wolfgang Amadeus/Piano Sonata No.11 in A major, K.331/00220
+a8656ec42e8f58a9b6c7dc1c967a7f34/Schumann, Robert/Kinderszenen, Op.15/176120
+a8c2d35223c881ad8de12ac98275f35d/Haydn, Joseph/Keyboard Sonata in C major, Hob.XVI:35/472686
+a934ba906fea653fc01cfaf4674a51fe/Mozart, Wolfgang Amadeus/Minuet in G major, K.1/56676
+a98466d2312e62c858a433f0e7dfb722/Mozart, Wolfgang Amadeus/Piano Sonata No.16 in C major, K.545/00226
+a989911821b818b7dec6f68a04bbcc31/Chopin, Frederic/Piano Sonata No.2, Op.35/114617
+a99bd2161e3aaf70146dcffdc1a38e72/Clementi, Muzio/6 Piano Sonatinas, Op.36/29868
+aa67021d05be82e78cd4783711b7ea74/Liszt, Franz/Etudes d'execution transcendante, S.139/156881
+aaf47395db81ca634e956c1af625c354/Beethoven, Ludwig van/2 Rondos, Op.51/58122
+ab111f3960d5808f37f7aadde5d7d9c7/Chopin, Frederic/Preludes, Op.28/79718
+ab73138a114cb817bd3abe27df8da0d7/Chopin, Frederic/Preludes, Op.28/79718
+aba83809ad818dd30155cd933f38522a/Chopin, Frederic/Mazurkas, Op.41/142721
+abdf85f1daf5fef7de7e9911a11de709/Satie, Erik/3 Sarabandes/237485
+abf21f8f8823524fc432e30c80719028/Bach, Johann Sebastian/Goldberg-Variationen, BWV 988/06984
+ac18b43d52692eda3c2edcac5314075b/Brahms, Johannes/7 Fantasien, Op.116/01528
+ac5c4fe8f35a61fcc8ad739aa01829f5/Busoni, Ferruccio/Transcription of 2 Toccatas from J.S. Bach, BV B 29/01335
+ac990abc52046ff0c75f57b9c058c5cd/Chopin, Frederic/Etudes, Op.25/112921
+acb5a3119d71787d4156a1e1d9503e3f/Beethoven, Ludwig van/7 Bagatelles, Op.33/00947
+ad99f4714f797e830338fe656640a645/Clementi, Muzio/3 Piano Sonatinas, Op.37/57569
+adadaaccc97e88b1e135715b2993cdf9/Bach, Johann Sebastian/15 Inventions, BWV 772-786/00895
+add394d4df4646378cc41e09dbb6d367/Liszt, Franz/Grandes etudes de Paganini, S.141/05380
+adf79587210a6bd40f9acfa843747c14/Scriabin, Aleksandr/6 Preludes, Op.13/112172
+ae4b6c6d839af7d4e782f1a0fe8be559/Debussy, Claude/Children's Corner/82214
+ae98ae2b294b2aaf9d1f13213abd42ae/Mozart, Wolfgang Amadeus/Piano Sonata No.16 in C major, K.545/70214
+aecd8c1770c3d0c67425adad390e3577/Chopin, Frederic/Preludes, Op.28/00485
+af4ac36d6af45d262d15b6a87fd0c489/Schumann, Robert/Piano Sonata No.2, Op.22/289729
+af695df9eb5de28e8eee6c355e148eaa/Brahms, Johannes/2 Rhapsodies, Op.79/516783
+af7061d3f0c783d6833628b5310c26cd/Balakirev, Mily/Islamey, Op.18/435015
+af9832fa05cbb98e9e489fdf6c02bebd/Chopin, Frederic/Mazurkas, Op.33/113867
+b010de45519669a6b1d823b121b51525/Schumann, Robert/Fantasiestucke, Op.12/331140
+b04d98be3fea71466a6cb9eac7733e96/Schumann, Robert/Kreisleriana, Op.16/00730
+b0de4d53c7b940fbe903752ac45f2fea/Bach, Johann Sebastian/15 Sinfonias, BWV 787-801/396136
+b0f1cf392f45020f4e54aed1b450ee13/Schumann, Robert/Kinderszenen, Op.15/40336
+b130fd46909d3124f5a62a14e38e1350/Clementi, Muzio/6 Piano Sonatinas, Op.36/73600
+b134eb143a49e5e1663a465b488b0d7f/Schumann, Robert/Arabeske, Op.18/00709
+b15264adb29d16c7a48cab908b460c85/Mozart, Wolfgang Amadeus/Piano Sonata No.16 in C major, K.545/00226
+b15f05fe52f60168025c52e35e767d12/Bach, Johann Sebastian/Goldberg-Variationen, BWV 988/06984
+b17d5d487511e25bbd3e15aa2c517c6c/Chopin, Frederic/Etudes, Op.10/112344
+b18d7ba8b596ee93e0dc683f7b0ab446/Fahrbach Jr., Philipp/Frauenliebe, Op.145/329059
+b1b13578aa4cccecc0d60308de73afa0/Beethoven, Ludwig van/Piano Sonata No.9, Op.14 No.1/243295
+b1c13aebf5686bfca5c40799ecf88ab1/Schumann, Robert/Kinderszenen, Op.15/176120
+b24e5cc6f4a239acc5b18dfb2daed957/Chopin, Frederic/Etudes, Op.10/60293
+b2624107cad7b8494190db669bc78920/Chopin, Frederic/Preludes, Op.28/00485
+b277aeee682c5cc2c1266b0e66c29863/Schumann, Robert/Kinderszenen, Op.15/40336
+b2f032fc57f3297b220417e82888490d/Chopin, Frederic/Mazurkas, Op.30/00455
+b302311de3d496537f212fb92e802761/Satie, Erik/3 Veritables preludes flasques/237276
+b3375cf7bd41be69d555ff2fa0b5416e/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+b34600cc3da8452f663a174c013d7194/Debussy, Claude/Children's Corner/82214
+b35725250931f6cd5f94c88bcc56cc5d/Bach, Johann Sebastian/Prelude and Fughetta in E minor, BWV 900/03195
+b39395facb2f30c7fe2d6374e14a2a9e/Chopin, Frederic/Nocturnes, Op.27/00463
+b39ed50be5c484097c64419d95e8e101/Mozart, Wolfgang Amadeus/Piano Sonata No.9 in D major, K.311/70207
+b408362df2279b8034415d9ced51e81e/Chopin, Frederic/Mazurkas, Op.33/69195
+b418a78841c1708d24693a2dc050abf4/Bach, Johann Sebastian/15 Inventions, BWV 772-786/22077
+b45d83ec91ec3bda9d46211aa418abe2/Brahms, Johannes/3 Intermezzi, Op.117/01515
+b471c14264856423f8eeb9d4da6e8ad8/Haydn, Joseph/Keyboard Sonata in E minor, Hob.XVI:34/113686
+b4a78d32ca4df2edc1836578d58ec5f0/Gouin, Pierre/Preludes, Op.28/66277
+b4b72afcfdcdf6cd97d134cb61f26387/Beethoven, Ludwig van/Piano Sonata No.9, Op.14 No.1/243295
+b4ea6b212678a62186c1dddc7db930f2/Mozart, Wolfgang Amadeus/Piano Sonata No.12 in F major, K.332/70210
+b4f3a0280c6c7b79ecdcf61ee04cd1a3/Chopin, Frederic/Preludes, Op.28/84752
+b51e74efd14eceea06c9de00679db83c/Schumann, Robert/Kreisleriana, Op.16/70919
+b52e95356008eafeeb9f4c146dd21922/Chopin, Frederic/Preludes, Op.28/00485
+b54e4fb4eae81edaf0021c70920301cf/Chopin, Frederic/Etudes, Op.10/60293
+b5c5bc2cabb1a34fb7fb581805372578/Mozart, Wolfgang Amadeus/Piano Sonata No.10 in C major, K.330/70208
+b632c51559e05c86dde8b7f70eb534da/Busoni, Ferruccio/Transcription of 2 Toccatas from J.S. Bach, BV B 29/01335
+b68576166b1bb6ab14905b78790595ab/Bach, Johann Sebastian/15 Inventions, BWV 772-786/22077
+b756621866b3a7ed6f20685aa207e982/Bach, Johann Sebastian/Fugue in C major, BWV 953/03286
+b767e28bda8252e8a99c1e326ffb77bc/Chopin, Frederic/Preludes, Op.28/79718
+b799c3510d8fe3f1dad5c2b9197a8bfa/Bach, Johann Sebastian/Prelude and Fughetta in D minor, BWV 899/03194
+b7d7ecfc29a48e08af15ae1141ac903c/Mozart, Wolfgang Amadeus/Piano Sonata No.4 in E-flat major, K.282/70202
+b7e9832a94a4bd44acb5977a6285e182/Chopin, Frederic/Polonaise in A-flat major, Op.53/85660
+b831d2e428079ad782e7f70cdeb322c7/Beethoven, Ludwig van/Piano Sonata No.29, Op.106/101574
+b86d9c170286fed4fa330273f5d4d431/Beethoven, Ludwig van/7 Bagatelles, Op.33/58117
+b86e48d24547aaa16592dfab81be81b2/Chopin, Frederic/Grande valse brillante, Op.18/79743
+b870a9c3cf1890eb953db0db0187fa9a/Beethoven, Ludwig van/Fur Elise, WoO 59/11471
+b8b8ce12f11cb8c866ef33e1ba8c3a70/Scarlatti, Domenico/Keyboard Sonata in G minor, K.4/81137
+b8d26ba778a5aa2c0c594cb164ee1182/Mozart, Wolfgang Amadeus/Piano Sonata No.12 in F major, K.332/70210
+b8fbb7d6b6373b9fad2d3749f6f648f6/Brahms, Johannes/Piano Sonata No.1, Op.1/107601
+b91186f54b82acd0ca6eeefbbfbf06f3/Chopin, Frederic/Preludes, Op.28/66277
+b917d10c0f96a0272485629ad50ebcac/Bach, Johann Sebastian/Goldberg-Variationen, BWV 988/06984
+b96ecf4212c30f14de14dadfc22bffb7/Satie, Erik/Gnossiennes/03007
+ba2365156923ebe2c7d80f8b677877a2/Schubert, Franz/3 Klavierstucke, D.946/53604
+ba5d8cbdf9c6d535c61902661669b350/Chopin, Frederic/Piano Sonata No.2, Op.35/85386
+ba662aa3ab7813a2ac404baf053c8fff/Bach, Johann Sebastian/Prelude and Fugue in E major, BWV 854/02214
+ba7f564ba213185688d5b6b4dbae7b88/Bach, Johann Sebastian/15 Inventions, BWV 772-786/396133
+ba89a54a5d32d1e0f9e5707062607af4/Mozart, Wolfgang Amadeus/Piano Sonata No.11 in A major, K.331/70209
+ba9dcce4f2ddec6933ccaa5dafb8b3fc/Chopin, Frederic/Mazurkas, Op.6/309288
+baa30a8fefbadf2903bf117d64b6eb9d/Liszt, Franz/Album d'un voyageur, S.156/04094
+baa39041e0ef9693fe068a2433e26745/Burgmuller, Friedrich/18 Etudes, Op.109/09551
+baac992a0da2af526878ad491ce0a839/Brahms, Johannes/Piano Sonata No.1, Op.1/06091
+bb3103bdf899e7c8b77119407faa6322/Beethoven, Ludwig van/Piano Sonata No.5, Op.10 No.1/68715
+bb4f37cc6c799ca4a39b44cbfde8146b/Chopin, Frederic/Etudes, Op.10/168185
+bb523328a4aa070a0133875ff2afa354/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/173660
+bb5b5adfa216ce54457839ff6ccae97b/Beethoven, Ludwig van/Piano Sonata No.5, Op.10 No.1/00005
+bba3a3999aad5b4086f7ba09d9748bdb/Bach, Johann Sebastian/Sonata in C major, BWV 966/05832
+bbd1c920fe11fa049fc61aa88efd08c8/Busoni, Ferruccio/Transcription of 2 Toccatas from J.S. Bach, BV B 29/01335
+bbebffa30310467bf0dce9b08863e515/Bach, Johann Sebastian/Suite in E-flat major, BWV 819/02288
+bc134df02cd91dd58c4e3543edee54c7/Bach, Johann Sebastian/15 Sinfonias, BWV 787-801/63612
+bc17efc975d6deba519c89e2b33b1cd1/Bach, Johann Sebastian/Toccata in E minor, BWV 914/485255
+bc66a983c37d0dce783d90fa183ee739/Bach, Johann Sebastian/15 Inventions, BWV 772-786/19938
+bc68bf80f52ac4179fbd9c876873d15e/Chopin, Frederic/Etudes, Op.10/168185
+bca992d8788c72e6d2d63e1bc35f9347/Bach, Johann Sebastian/Toccata in D major, BWV 912/485252
+bcb59c1233c5c393b160c3efe85cdb5c/Chopin, Frederic/Etudes, Op.10/112344
+bd1a64a12639101b1c823bc715413e40/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/494709
+bd2e2725f22a93c5bd19c5c32dd367a8/Liszt, Franz/Grandes etudes de Paganini, S.141/36691
+bd5c3b0d73ebbe53c68bdc9e72c0d3b6/Liszt, Franz/Etudes d'execution transcendante, S.139/67094
+bd674de1b23db919512a2d35499728dc/Chopin, Frederic/Waltzes, Op.64/447395
+bd75e14de7b5f010fa2228c763548902/Mozart, Wolfgang Amadeus/Piano Sonata No.11 in A major, K.331/00220
+bda4556c8789624076d22e8364df42f2/Bach, Johann Sebastian/Fugue in D minor, BWV 948/03280
+bdd9f29aca8b7f8ac3eacfc26a881282/Chopin, Frederic/Preludes, Op.28/79718
+bddf74762c1d990b4e4edf1ae4cd9e6e/Beethoven, Ludwig van/Bagatelle, WoO 52/107418
+bdee294952edf3a2bba421b4b5687cda/Chopin, Frederic/Preludes, Op.28/00485
+bdf6d256fbf598761a1926efb30dd6f7/Bach, Johann Sebastian/Prelude and Fugue in C major, BWV 846/01005
+be18d7da13eac183b3a380866d32074c/Beethoven, Ludwig van/Piano Sonata No.26, Op.81a/00026
+be3e12ae54ae13e8a231181e8aa33eb2/Urbach, Ernst/Friedensglocken/420283
+be93a956b1d685e8207aee4285fcda1f/Schumann, Robert/Piano Sonata No.2, Op.22/79024
+bef296438c59501c947408ce1535b66f/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/494709
+bf8ad11f673134accd04f275a38347d9/Beethoven, Ludwig van/Piano Sonata No.29, Op.106/00029
+bfa04d9e82302ea738005127045bd438/Bartok, Bela/2 Romanian Dances, Op.8a/12641
+bfa1f56366cc1842a519aad217ef7118/Chopin, Frederic/Preludes, Op.28/84752
+c00e764ef74febc95cab081db9b78496/Chopin, Frederic/Preludes, Op.28/79718
+c0367a5b0e9e30ac157a301b551bae35/Debussy, Claude/Pour le piano/57634
+c0614a66136c85ba6d727552d6d5f234/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+c0ab1c26a336cedd23966dd4ea8b3be6/Chopin, Frederic/Nocturnes, Op.27/115009
+c0ea7a979d4dea840b5f56aebd2a2708/Baumbach, Adolph/Maiden's Dream Reverie/47633
+c0ef93bfc6abd2a60caa3f541e96ffc5/Bach, Johann Sebastian/Prelude and Fugue in C major, BWV 846/01005
+c10f88495c2a5e82502c27932dba3016/Chopin, Frederic/Mazurkas, Op.24/111840
+c1145874face0ab1b836d9bbe2a5d23f/Bach, Johann Sebastian/Toccata in C minor, BWV 911/109380
+c140c44ec02feb2ebb36d65db5dc0142/Bach, Johann Sebastian/Prelude and Fugue in G major, BWV 541/01326
+c18aaacfadff1f102df6e77f829a722b/Chopin, Frederic/Piano Sonata No.2, Op.35/85386
+c1d104fbc27eca5aeb5e389ec9dfd987/Chopin, Frederic/Etudes, Op.25/112347
+c2252e01fe83536f0081e994e35108ee/Chopin, Frederic/Preludes, Op.28/00485
+c25ffdf8fbfc3977cb6e00c62fede95d/Chopin, Frederic/Etudes, Op.10/60293
+c2b7cb39ecc07ec061df94910e7cf4e1/Schumann, Robert/Kreisleriana, Op.16/423690
+c37636b28ed6ddc2427936cbc2c1d26c/Bach, Johann Sebastian/15 Sinfonias, BWV 787-801/00894
+c391c9662b4ecb97398316baef105609/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/494709
+c392ff54c4ef4d4ea9f5d478ba4dfe7c/Brahms, Johannes/7 Fantasien, Op.116/08447
+c39ff68d80cfb03f3b24e3fa1b79fac7/Liszt, Franz/Grandes etudes de Paganini, S.141/00597
+c3b6d66e6b8ad1f7f7d7b94fa2d5c020/Bach, Johann Sebastian/Goldberg-Variationen, BWV 988/06984
+c3ffca8d6c0236fcc457a473ff7b5b53/Beethoven, Ludwig van/Fur Elise, WoO 59/11471
+c42a99bd2a921b24b63d274a6c99f616/Chopin, Frederic/Nocturnes, Op.62/114005
+c4334c93cb70b552c242933f5e96da6f/Clementi, Muzio/Piano Sonata, Op.26/55291
+c43d8da543471cbd6ba774e68168ccec/Chopin, Frederic/Etudes, Op.10/112344
+c440d263c7d3f0d5b7cf04930d56d647/Busoni, Ferruccio/Transcription of 2 Toccatas from J.S. Bach, BV B 29/01335
+c48e9867c2c4e15779e39946cbc3483c/Chopin, Frederic/Ballade No.1, Op.23/41053
+c4c780c2903134791171d17b306b1317/Bach, Johann Sebastian/English Suite No.3 in G minor, BWV 808/02096
+c4d5601a3950986f9054a8753301bb3a/Satie, Erik/3 Sarabandes/08097
+c513246b3b7ea40cc91166f957824f2b/Mozart, Wolfgang Amadeus/Piano Sonata No.16 in C major, K.545/70214
+c51eeed444860241bba8d3fae20cf0e2/Mozart, Wolfgang Amadeus/Piano Sonata No.14 in C minor, K.457/00223
+c5462dea7eb5c15ab5c3ec10d1fffd3e/Chopin, Frederic/3 Ecossaises, Op.72 No.3/00628
+c56660002efbc5109c234955c640333f/Mozart, Wolfgang Amadeus/Piano Sonata No.11 in A major, K.331/70209
+c58180e8e3dd01fa3860096bd7bd7ace/Bach, Johann Sebastian/English Suite No.6 in D minor, BWV 811/02099
+c5d53131ec82f44a47d7286370a48101/Bach, Johann Sebastian/Toccata in F-sharp minor, BWV 910/485248
+c5fef03dd854f4ed42704a8ac70ce39d/Urbach, Ernst/Friedensglocken/420283
+c643c9ba5244a59caad253d6cd356930/Bach, Johann Sebastian/Prelude and Fugue in E minor, BWV 855/02215
+c645016e9f8e3019b90b2041fd118108/Busoni, Ferruccio/Fantasia nach J.S. Bach, BV 253/13588
+c64ad87c7a167f4e084477d5c1fccf2b/Bach, Johann Sebastian/Goldberg-Variationen, BWV 988/06984
+c64d7a26fa2ff912176ba58294f65171/Beethoven, Ludwig van/Piano Sonata No.17, Op.31 No.2/00017
+c654824db77af5ef5b5d3056f63e41e3/Czerny, Carl/The Art of Finger Dexterity, Op.740/12217
+c67bbcd2b31acfac4c2dfe9ff2f9339b/Schumann, Robert/Kinderszenen, Op.15/40336
+c7788b671f852259cf13065df93209d2/Chopin, Frederic/Etudes, Op.10/514955
+c786b6ee71616c05cc3cdf8f692ce2e7/Haydn, Joseph/Divertimento in G major, Hob.XVI:8/471961
+c7e25a43f33c2c220279114feaacd146/Chopin, Frederic/Nocturnes, Op.27/47190
+c7e5560e336f7528dfe26087cb0152ae/Chopin, Frederic/Etudes, Op.10/112344
+c7ed292f562b3509cb969eab30e64d41/Bach, Carl Philipp Emanuel/Solfeggio in C minor, H.220/02573
+c80adb262f33b0546b82382017767b61/Debussy, Claude/Children's Corner/82214
+c80e40f517d94375dcb925b2e423543c/Bach, Johann Sebastian/Sinfonia in A minor, BWV 799/00773
+c816527045ecd66f7ae4c778dc6c886d/Schumann, Robert/Kinderszenen, Op.15/176120
+c88734a442768afbe35305d04ee38bca/Chopin, Frederic/Preludes, Op.28/00485
+c8a78a68279594db2cdeb9ae7e4c1d44/Bach, Johann Sebastian/Prelude and Fugue in C major, BWV 846/01005
+c906b55df609f2fd95ac92398be81f31/Schumann, Robert/Kreisleriana, Op.16/70919
+c92130c425292bc66afadfbbc0b25002/Beethoven, Ludwig van/Polonaise in C major, Op.89/05148
+c922d5808d289b17a61873fde6d753ff/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+c994610553ce76b1b7966312409472d0/Mozart, Wolfgang Amadeus/Piano Sonata No.16 in C major, K.545/00226
+c99f3770f68746a559d27574f08b95d2/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/494709
+c9cd5a9a877cd65224c5215d3c70a402/Schumann, Robert/Fantasie, Op.17/289793
+c9e7ff3f2261e3f29fdba24ae63b65a8/Bach, Johann Sebastian/Prelude and Fugue in A major, BWV 864/01023
+c9f1b457e8f75911a8a3587865753ddd/Clementi, Muzio/6 Piano Sonatinas, Op.36/63976
+ca00e694a7886936b7d82826d2623f02/Mozart, Wolfgang Amadeus/Piano Sonata No.10 in C major, K.330/56319
+ca0290ec30306f36ef0e50a6900c1b6f/Bach, Johann Sebastian/Duetto No.1 in E minor, BWV 802/00819
+ca0db93bc2a2f60bb58726a653890aad/Mozart, Wolfgang Amadeus/Piano Sonata No.11 in A major, K.331/00220
+ca4bd4f8d55feea48070b0c5866dae15/Beethoven, Ludwig van/Minuet, WoO 82/12832
+cac153045607bc7df990ee8f7eda15db/Chopin, Frederic/Nocturnes, Op.48/48578
+caccf4b5d7a2f8b09b8f1bc6c014cbd9/Mozart, Wolfgang Amadeus/Piano Sonata No.16 in C major, K.545/00226
+cacd1ed9b2684a4970934155528c1b99/Beethoven, Ludwig van/Allegretto, WoO 61/12829
+cad6ccad3b36fbc0e5e61a159a6e7d71/Liszt, Franz/Mephisto Waltz No.1, S.514/13711
+cad70226cbc5655b41be90f1157eccab/Beethoven, Ludwig van/Piano Sonata No.21, Op.53/35181
+cadb4bc961b6c560618729d333dd350c/Mozart, Wolfgang Amadeus/7 Variations on "Willem von Nassau", K.25/24885
+cb6b82021eb6b4bdbba8f55ad46f243d/Haydn, Joseph/Divertimento in F major, Hob.XVI:9/471963
+cb83c907774dc5e55efa815b298c9b79/Liszt, Franz/Hungarian Rhapsody No.10, S.244/44868
+cbadb44d65bd9dfa0f1fd8f0940c10f6/Liszt, Franz/Chanson du Bearn, S.236/146712
+cbc3919276bbcbaf62f8d762445bb8c6/Bach, Johann Sebastian/Organ Concerto in C major, BWV 595/04404
+cbdef3519d6f3bece4be1b0c007024c7/Joplin, Scott/Great Crush Collision/05486
+cc2b37543d26092950d3d3553042e9a6/Bach, Johann Sebastian/Duetto No.2 in F major, BWV 803/00820
+cc6fc3213e76efaf22ce992f9caaf2d8/Bach, Johann Sebastian/Prelude and Fugue in C major, BWV 846/01005
+cc8f1eaf41937ad1c97f2edd2a09272f/Ascher, Joseph/Galop bachique, Op.49/351673
+ccde0bea904927233d353802c0a535bb/Chopin, Frederic/Mazurkas, Op.67/96629
+ccf2e5d14c7e9658942eee9368041d2d/Bach, Johann Sebastian/15 Inventions, BWV 772-786/22076
+cd2259d720ba04920aa1514baecc73c5/Mozart, Wolfgang Amadeus/12 Variations on "Ah, vous dirai-je maman", K.265/40557
+cd5f774851b920bd5fb9383cad588799/Chopin, Frederic/Mazurkas, Op.67/142726
+cd817e61aa0d11f21e28ba8c226608c1/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+cd97b2603173fd552ffac8c72ab8fc5f/Bach, Johann Sebastian/15 Inventions, BWV 772-786/22077
+cdd6f30a817cbc12dac8613dc8ecfbcc/Schumann, Robert/Kreisleriana, Op.16/289792
+ce010e57b6c17eaefb50b5f6af1ff029/Bach, Johann Sebastian/15 Inventions, BWV 772-786/22077
+ce112af75f9925d82de5e87802748d46/Chopin, Frederic/Nocturnes, Op.48/48578
+ce1d296023177f91df4bf5eae2ca3de8/Clementi, Muzio/Gradus ad Parnassum, Op.44/105471
+ce43907f9a75a89e04f08a78ad84b586/Mozart, Wolfgang Amadeus/Piano Sonata No.9 in D major, K.311/70207
+ce7c4fa57d9e7e628c36efd323da7cfe/Chopin, Frederic/Mazurkas, Op.33/113867
+ce859a593612f80ca089c4a493cfc96d/Debussy, Claude/Suite bergamasque/02907
+ce9c28af6803351392f129d30d39bdc9/Liszt, Franz/Liebestraume, S.541/05971
+ceceb3d4335c27caf78b98e904133557/Chopin, Frederic/Piano Sonata No.3, Op.58/79669
+cf0812902a6e8d92d5be085fc59e5e5a/Bach, Johann Sebastian/Prelude and Fugue in F-sharp major, BWV 882/02190
+cf1767440a9e43e71939d0d372656fd6/Mozart, Wolfgang Amadeus/Piano Sonata No.16 in C major, K.545/00226
+cf1ca0af77d3d0fbb14247d8fd0613e7/Beethoven, Ludwig van/Piano Sonata No.16, Op.31 No.1/00016
+cf25553f8649ccfefdce8f9b0fbc7477/Tarrega, Francisco/Menuet de Beethoven/12819
+cf3a331e223127b68fd89d5e62eebbc6/Bach, Johann Sebastian/Suite in A major, BWV 832/06424
+cf44dbd719c9d5964aab4aae6a9c35ea/Bach, Johann Sebastian/15 Inventions, BWV 772-786/322009
+cfaed451241bc5f77441aaa592722fc6/Schumann, Robert/Kreisleriana, Op.16/00730
+cfeb1ac8d92e60bac8b5bff5537a6e32/Mozart, Wolfgang Amadeus/Fantasia in C minor, K.475/474232
+d0248aaa80ed2d13c7385e60b3b1f19c/Schubert, Franz/Piano Sonata No.18, D.894/115013
+d07656cbd3063e5eb814a28e2a14e075/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/494709
+d086b1be522263165d03348fab8d0d7d/Liszt, Franz/2 Legendes, S.175/91615
+d0d86aa9d583df2132ed9d3619583f95/Bach, Johann Sebastian/Toccata in D major, BWV 912/485252
+d121c294db8d55b4f8fd5075c8e26201/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+d171bb99b9cc2438a67195b512ea7ae6/Bach, Johann Sebastian/15 Inventions, BWV 772-786/22077
+d1ea4be990f8f8020da5bac42def556a/Schumann, Robert/Symphonic Etudes, Op.13/00405
+d1f57e0389c10f24db58f12d29009830/Bach, Johann Sebastian/15 Inventions, BWV 772-786/22076
+d28d612b7e89bc9bd71f1dda7ce3c1df/Bach, Johann Sebastian/15 Inventions, BWV 772-786/22077
+d2d2c4693de2db2267890fbca21c5a5b/Chopin, Frederic/Mazurkas, Op.7/29440
+d31e7b025b33bfa38e22c0cc6422b11c/Chopin, Frederic/Preludes, Op.28/111925
+d376b1a61e3464e5fdc9beaf2d3675c6/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+d3ab601e877ae6e91234735147d950b8/Bach, Johann Sebastian/Fugue in C major, BWV 952/03285
+d3c595d7eb706446aad405e6ba8571ab/Chopin, Frederic/Preludes, Op.28/00485
+d3c6736a96fe8911b8e24a378eead911/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+d3d37d205c4596c86bce23966b4a7c96/Chopin, Frederic/Cantabile in B-flat major, B.84/06555
+d3f6dd9c046127cf3ff2c454eab89cc9/Clementi, Muzio/6 Piano Sonatinas, Op.36/63976
+d403e382ad1d0de44e249041848b4476/Beethoven, Ludwig van/Piano Sonata No.5, Op.10 No.1/00005
+d454d22c848dd62ca1ffc75a44bf46d7/Mozart, Wolfgang Amadeus/Minuet in F major, K.5/56681
+d48625dccd79ed8624c2a7f4404f9018/Bach, Johann Sebastian/6 Partitas, BWV 825-830/62575
+d549386c0ffe89a7003175e508fb5c99/Bach, Johann Sebastian/15 Inventions, BWV 772-786/22076
+d583feb38ffcd86ffa0d22d2f52e9426/Clementi, Muzio/Piano Sonata, Op.26/55291
+d59c8d4301912610ab23255b243cbb66/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/62105
+d5daf75705d9074eee62264d59f6af42/Bach, Johann Sebastian/Goldberg-Variationen, BWV 988/06984
+d620bc827e3b95f3f84a33aa19686caf/Mozart, Wolfgang Amadeus/Piano Sonata No.11 in A major, K.331/00220
+d697a25194f21be8f696716cb079baa5/Beethoven, Ludwig van/Piano Sonata No.10, Op.14 No.2/68725
+d6d1a11e8a9e2371ae06ee3981425ff8/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/494709
+d6fe099a7b0526a10740a9e923b7b241/Mozart, Wolfgang Amadeus/9 Variations on a Minuet by Duport, K.573/56893
+d71f228e1ac7620b5828907ae6cc7d31/Bach, Johann Sebastian/15 Inventions, BWV 772-786/22077
+d764d139c465bd13c8756dbb0f134ffd/Chopin, Frederic/Mazurkas, Op.68/96642
+d77287b5cf01e6303770b3396e9367e0/Bach, Johann Sebastian/Goldberg-Variationen, BWV 988/06984
+d79984c157f852ab13765ac03b6aed8f/Bach, Johann Sebastian/15 Inventions, BWV 772-786/22076
+d7b9636d7bfcfb831ebe516cbc02eeed/Schumann, Robert/Papillons, Op.2/54681
+d7f11cf3519ccb7b10c33b4355cd65dc/Liszt, Franz/Harmonies poetiques et religieuses III, S.173/98345
+d7f9285a58e556631dbac51e76a4bafd/Bach, Johann Sebastian/French Suite No.4 in E-flat major, BWV 815/02103
+d833f3a2c4f871ed53710fc0f4558ded/Grieg, Edvard/Lyric Pieces, Op.65/181323
+d84acd0d308255f9d77d46a0cde922b5/Satie, Erik/4 Ogives/237484
+d87377d87edb322ae69110a37c538c3d/Chopin, Frederic/Preludes, Op.28/00485
+d896b3d93b4c4b8f155bdf6b59f48a49/Beethoven, Ludwig van/Rondo, WoO 48/12823
+d8bb38eef8cb5efa4c6077305d14f82a/Schumann, Robert/Kreisleriana, Op.16/70917
+d910357ae46c823e5ed92ef37a3ba16b/Beethoven, Ludwig van/Piano Sonata No.11, Op.22/00011
+d9343d77b25839ca3714bb74a0035c78/Chopin, Frederic/Nocturnes, Op.32/80840
+d9468a592114d8df7d4e57fae1d4f2ee/Bach, Johann Sebastian/15 Inventions, BWV 772-786/00895
+d9790f5060163f565c2d04e74252d1e9/Chopin, Frederic/3 Ecossaises, Op.72 No.3/113326
+d9c3dde00517785bd3e715216e41d257/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+d9dc7fe2a0b66c8436d770e797636be0/Beethoven, Ludwig van/Piano Sonata No.26, Op.81a/51798
+da4fbab383885c849c2aa689318b662a/Bach, Johann Sebastian/Duetto No.1 in E minor, BWV 802/00819
+da633541c0ff15fb348215d24a2754de/Schumann, Robert/Kinderszenen, Op.15/176120
+da660f2704f0abb9d12d085cffa55fb4/Chopin, Frederic/Etudes, Op.10/168185
+da775505e7f914b9b92883c4eaceaf75/Beethoven, Ludwig van/Piano Sonata No.29, Op.106/00029
+da8c0358dec135f996ba8aa756a1dd7a/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/494709
+dab04c029b3f270c8881e4a59ac7d613/Schumann, Robert/Kinderszenen, Op.15/40336
+dabe261e49e2a0e022c4528699a02dcb/Bach, Johann Sebastian/15 Sinfonias, BWV 787-801/00894
+db7d89779a1cde4340172d3289fdecc1/Chopin, Frederic/Etudes, Op.10/60293
+dbd72432e7ba61772ffc1a5892176aab/Beethoven, Ludwig van/Ecossaise, WoO 86/53188
+dbda7a87224ce88aaff8860d04ce1822/Bach, Johann Sebastian/Toccata in G major, BWV 916/03206
+dbdde16845a5604e9306c5fe2caa0d0c/Chopin, Frederic/Nocturnes, Op.9/34916
+dbe2c3f88f818862dbf1d921c23e4f75/Chopin, Frederic/Fantaisie-impromptu, Op.66/139195
+dbe2f603154ecbe8766e5e0dec3428bb/Mozart, Wolfgang Amadeus/Piano Sonata No.12 in F major, K.332/292670
+dcba8abde66aee41ee5332a3cd5a3832/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/494709
+dcbe415f52bb612f00af352321c7e815/Mozart, Wolfgang Amadeus/Piano Sonata No.3 in B-flat major, K.281/56312
+dd05765c2fd6ca5bd4bcd6b10737c797/Schumann, Robert/8 Novelletten, Op.21/71968
+dd5502a93265c82fe36ba7c915cc6acd/Liszt, Franz/3 Etudes de concert, S.144/04887
+dd5a6674f143e75eac2b8ebc60b06867/Beethoven, Ludwig van/Piano Sonata No.26, Op.81a/00026
+dd7e2866ee7b322813774a1805188ea6/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+dda61b333aff46875d5a588ea108e044/Grieg, Edvard/Lyric Pieces, Op.65/181323
+ddd04c3104f98ca346a032be381459f5/Lamb, Joseph Francis/Sensation/06396
+ddd7458af854a6a42decb93ea6ae8850/Chopin, Frederic/Scherzo No.2, Op.31/86689
+de095e69d49fa6ae938b198e7bce3902/Clementi, Muzio/6 Piano Sonatinas, Op.36/29868
+de277ca401edb332067814d16ba3da41/Bach, Johann Sebastian/Sinfonia in E minor, BWV 793/00768
+de44551fa777b4a989efe6690b25e150/Bach, Johann Sebastian/Toccata in D minor, BWV 913/03203
+de73d857620d602cf1c5f76e70a4f786/Chopin, Frederic/Ballade No.4, Op.52/00118
+de78b31185d4422cec1996a22be5a721/Schumann, Robert/Kinderszenen, Op.15/40336
+dea3f823a298e936992c1e66b09f1c52/Satie, Erik/4 Ogives/237484
+decc5ff49ade8b91c9f73fa4885eb757/Chopin, Frederic/Waltzes, Op.64/80376
+ded03d3464ab4aab3db8afa2fb34dd49/Mozart, Wolfgang Amadeus/Piano Sonata No.12 in F major, K.332/70210
+dee4110d08e711231dd3c2be7cce6c88/Debussy, Claude/Suite bergamasque/46697
+defc4294f9bb60c66b0a7aba6aad97df/Bach, Johann Sebastian/15 Inventions, BWV 772-786/22076
+df94ca7d80705afd936da56a60ba25c9/Bach, Johann Sebastian/15 Inventions, BWV 772-786/22076
+dfc3079ef01c4f9cfe80312d7f71edfb/Debussy, Claude/Suite bergamasque/86505
+dff7e006d340fd960b0c3538eff188b9/Brahms, Johannes/8 Klavierstucke, Op.76/02507
+dffa4527537467f7f3bc85e3858ced7c/Bach, Johann Sebastian/15 Inventions, BWV 772-786/22076
+e01664eb5bd8e5d3f45e3ce0389edc2f/Bach, Johann Sebastian/Prelude and Fugue in A minor, BWV 865/02225
+e024c4938b51c83f12b6cc53e407cb23/Mozart, Wolfgang Amadeus/Piano Sonata No.9 in D major, K.311/70207
+e06871e541bcf464351c5be115b80c7a/Liszt, Franz/Hungarian Rhapsody No.2, S.244/14927
+e076ddc896307eeef93ef19d7a2ce36f/Chopin, Frederic/Preludes, Op.28/254000
+e0822ac3da6447b2d1838480cf46e0ad/Beethoven, Ludwig van/2 Sonatinas for Piano, Anh.5/51817
+e0dd11dced0d541e04befef37e742fed/Balakirev, Mily/Islamey, Op.18/435015
+e0ff18a7428c5b607af2160dcff9993f/Liszt, Franz/Valses oubliees, S.215/30925
+e1141542e1f96773d9ad6134afb939d7/Bach, Johann Sebastian/Duetto No.3 in G major, BWV 804/00821
+e187352b02ae604be57b06672973a52b/Satie, Erik/3 Sarabandes/237485
+e1a0cf4908b93a32827be6a87342e298/Beethoven, Ludwig van/Piano Sonata No.14, Op.27 No.2/331155
+e1acbc910a8ba44a07d06b9e1bbd4fb4/Tarrega, Francisco/Menuet de Beethoven/12819
+e1b6e97acb6955f1395b1a17ec613010/Mozart, Wolfgang Amadeus/Piano Sonata No.17 in B-flat major, K.570/56443
+e1b91979d7468d5897e6011293f9e507/Beethoven, Ludwig van/Piano Sonata No.19, Op.49 No.1/345618
+e1e4960b4ba864e6770833055af2c499/Chopin, Frederic/Nocturnes, Op.27/47190
+e26939415c1258234506d42af1828707/Mozart, Wolfgang Amadeus/Piano Sonata No.11 in A major, K.331/70209
+e3703745f839537863c3ebd5724ee23c/Brahms, Johannes/Piano Sonata No.1, Op.1/107602
+e3927a6f7c653a87b518235d650e89e1/Chopin, Frederic/Etudes, Op.25/60297
+e3bf840b9318b4bf0143c5a8ff0febb9/Bach, Johann Sebastian/Goldberg-Variationen, BWV 988/06984
+e3cf4fc0022d2fc7b29b9749bd0fd4fa/Schumann, Robert/3 Fantasiestucke, Op.111/54279
+e40f5d9f2128b1b2b1c965dc10cc58d4/Beethoven, Ludwig van/Piano Sonata No.5, Op.10 No.1/00005
+e4597dde8822f768eba58877da3461a1/Beethoven, Ludwig van/Piano Sonata No.20, Op.49 No.2/45469
+e4b801363ec27fca48d716725a6b77a7/Brahms, Johannes/Piano Sonata No.1, Op.1/107601
+e4e66fd7a240a7cde43859dba7ec0af5/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+e5710250e67cde9f8fc08870ee132667/Chopin, Frederic/Mazurkas, Op.68/96642
+e5871e7c7a520550d48dbf723bbfd498/Brahms, Johannes/4 Klavierstucke, Op.119/01534
+e5901c8686b99ffca888c530edcb9f8e/Mozart, Wolfgang Amadeus/Piano Sonata No.6 in D major, K.284/70204
+e5d3c0cae09bc85057418dbbdc7dfb29/Bach, Johann Sebastian/English Suite No.6 in D minor, BWV 811/02099
+e5e003a6547b62ce0d35acb78fda4e73/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/22083
+e5e66d1a8ac1cf4b9bfa8a404562cf60/Schumann, Robert/8 Novelletten, Op.21/71968
+e603b30c4dd397bbd09d85567d714df5/Beethoven, Ludwig van/Fur Elise, WoO 59/11471
+e62fe66f5ebc31c72c0ed59104e5fdb1/Beethoven, Ludwig van/Bagatelle, WoO 54/00951
+e65d775feae29ae8e4cc70c15d9094f9/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/29934
+e68caf31942de6a5d521bb64b28fce80/Mozart, Wolfgang Amadeus/Piano Sonata No.11 in A major, K.331/70209
+e6a8be80a4f1c8b5f4c662ba4cd2fcd4/Bach, Carl Philipp Emanuel/Solfeggio in C minor, H.220/02573
+e6d0555dbbe7ee248b267cbfb00e54da/Bach, Johann Sebastian/Prelude and Fugue in C major, BWV 846/01005
+e6e5da69255adeedd0f42e6e24e01b37/Chopin, Frederic/Waltzes, Op.64/114892
+e6e88d3dc6e3a40392a3acf2b90856d8/Chopin, Frederic/Impromptu No.2, Op.36/79722
+e6fa21f3b074356f50ca0f6ac7297faa/Brahms, Johannes/3 Intermezzi, Op.117/01515
+e6fc98ae2aa0aac1c914a5a4982b6351/Bach, Johann Sebastian/English Suite No.1 in A major, BWV 806/02094
+e75b054658ee2c901619b6dcdbc7d25d/Bach, Johann Sebastian/Prelude and Fugue in C major, BWV 846/01005
+e7743485779c387aa8a73758c248f434/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+e7acf039ab9ca34e9fb9dfa674050c2f/Erbach, Christian/Canzona secundi toni/319500
+e7cd4b92430393a2a7c9282887cb5a93/Mozart, Wolfgang Amadeus/Piano Sonata No.12 in F major, K.332/70210
+e803b3ba029e5b8f0399ef811a8035c0/Beethoven, Ludwig van/Piano Sonata No.14, Op.27 No.2/331155
+e84086cda6f9137599ccf99581ebe73b/Balakirev, Mily/Islamey, Op.18/435015
+e860b454009264aba39e4c60246e6428/Bach, Johann Christian/Keyboard Sonata in G major, W.A 10/03891
+e9187a6124a6b08bdf1126728b07983d/Debussy, Claude/Preludes, Livre 1/246412
+e931949f544391a5a128b1daee23a2d1/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/494709
+e9a99d715fb905c83ea8606992799372/Bach, Johann Sebastian/English Suite No.1 in A major, BWV 806/02094
+ea03c50398f3cc105c91bc7f63a783ef/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+ea2bc57cf3fa6410eefd87a8c61daedb/Bach, Johann Christian/Keyboard Sonata in G major, W.A 10/03891
+eab0eca99bca63913c17956090b30147/Schumann, Robert/Kinderszenen, Op.15/176120
+eacc32b5a1e1c150da2905f121751c92/Clementi, Muzio/3 Piano Sonatinas, Op.37/57570
+eb1005b50890377bf15e4b4db3be784c/Bach, Johann Sebastian/Toccata in G major, BWV 916/03206
+eb1934dbed417d2b15923e27aabc91e3/Chopin, Frederic/Mazurkas, Op.7/29440
+eb400d455708c7414a1f953cb5d15584/Chopin, Frederic/Mazurkas, Op.41/111844
+eb67e06aee0b2d833bf1d662b2528a76/Bach, Johann Sebastian/Goldberg-Variationen, BWV 988/06984
+eb7c4499ec3a4208a56bab52b8f93c74/Bartok, Bela/2 Romanian Dances, Op.8a/12641
+eb8fc375a8e2fa51c3b01555713644cf/Bach, Johann Sebastian/Toccata in D major, BWV 912/485252
+ebd08dfdb1cd40aae5b96811a117dd66/Liszt, Franz/Hungarian Rhapsody No.2, S.244/33352
+ebe51c70425a073d1ca1790d9aa2fbbe/Mozart, Wolfgang Amadeus/Piano Sonata No.8 in A minor, K.310/70206
+ec41d1169ce335971361418203d0db1b/Chopin, Frederic/Prelude in C-sharp minor, Op.45/37054
+ec6b84c78d88513223b6d0d845e1ade8/Bach, Johann Sebastian/15 Sinfonias, BWV 787-801/63612
+ec6f907743f4503578e4d9a5cb80a3c6/Bach, Johann Sebastian/Goldberg-Variationen, BWV 988/06984
+ec81a0d61bc4c978df261713acf98d3f/Bach, Johann Sebastian/15 Inventions, BWV 772-786/22076
+ecc84e5827e71b00e491c941e17a6bdb/Beethoven, Ludwig van/Piano Sonata No.29, Op.106/101574
+ecd53ed781ca98e447eeb43b66a3dcd6/Clementi, Muzio/6 Piano Sonatinas, Op.36/63976
+eceb1abcb3f35771f5824ec183d76936/Schumann, Robert/Kreisleriana, Op.16/00730
+ecf75fab55ca88b2a04ee37b7c1520f0/Chopin, Frederic/Ballade No.1, Op.23/64109
+ed42d975c8b00984feccb252501c0664/Beethoven, Ludwig van/Fur Elise, WoO 59/11471
+ed867fd29a75418dc95e453a917c6fe8/Scarlatti, Domenico/Keyboard Sonata in A major, K.26/376357
+edffe9305e3154ea46056b52d3818488/Clementi, Muzio/6 Piano Sonatinas, Op.36/63976
+ee0376bbaf58e85364d3efcedd47198e/Beethoven, Ludwig van/Piano Sonata No.5, Op.10 No.1/68715
+ee5f955ae1db39a1def9e8feb365e56c/Chopin, Frederic/Nocturnes, Op.37/399486
+ee7274da39b661be0296222c005e755e/Chopin, Frederic/Piano Sonata No.2, Op.35/520486
+ee74b9a2a5ceca8ea8cfed213556164f/Bach, Johann Sebastian/Goldberg-Variationen, BWV 988/06984
+eeae8057ee8470f9efa8832b510ade57/Mozart, Wolfgang Amadeus/Piano Sonata No.8 in A minor, K.310/70206
+eec6460a8a1544c66947efb19f200115/Bach, Johann Sebastian/English Suite No.6 in D minor, BWV 811/02099
+ef03161c65194a7c9fc7ed3d7efe4586/Beethoven, Ludwig van/Piano Sonata No.14, Op.27 No.2/00014
+ef152ec00ec607a6648160cb9177868e/Chopin, Frederic/Mazurkas, Op.30/68787
+ef20a80101c07e69a7afa80db2fc3013/Beethoven, Ludwig van/7 Bagatelles, Op.33/58117
+ef247f65a92d1657f1ec725b4e725a2a/Satie, Erik/Gnossiennes/03007
+ef249e98c7c7ff76a008cd451b7b4a01/Bach, Johann Sebastian/Prelude and Fugue in F-sharp major, BWV 858/01017
+ef2dec963943c17df148eba5c808246a/Chopin, Frederic/Preludes, Op.28/111373
+ef7a2e82233b6975b69d738740c3aa37/Liszt, Franz/Grandes etudes de Paganini, S.141/36690
+efe971eb52f982942e30fd7922dc75a9/Debussy, Claude/Children's Corner/82214
+f001522e9099bf80c4bbfe86b71a4563/Beethoven, Ludwig van/7 Bagatelles, Op.33/58117
+f05f570607865c7662c6e2daab810740/Chopin, Frederic/Fantaisie-impromptu, Op.66/79763
+f06012885397c48882018de74c55a22f/Schumann, Robert/Kinderszenen, Op.15/176120
+f0ad33afd3d877fae7d675275fc2f48b/Schumann, Robert/8 Novelletten, Op.21/71968
+f11e32266bb88f8eca26f74d23804059/Beethoven, Ludwig van/6 Ecossaises, WoO 83/318761
+f14cffcbb50afda1d767f21bc6aef16f/Chopin, Frederic/Preludes, Op.28/00485
+f177a7759ba95cebe3cf88c572d343ed/Chopin, Frederic/Piano Sonata No.3, Op.58/79669
+f17ab11149172db44f32ca0146e53a01/Debussy, Claude/Children's Corner/82214
+f19abb5b72d8b9630e27b3b14b9e8781/Bach, Johann Sebastian/English Suite No.2 in A minor, BWV 807/58719
+f1bc15cebd3e56228abcaf06d2103203/Bach, Johann Sebastian/Toccata in E minor, BWV 914/485255
+f1d38df54a93ae86732d8eeabebaeb49/Bach, Johann Sebastian/15 Inventions, BWV 772-786/19938
+f207c8c6945f4e5b80582c8f2874c046/Chopin, Frederic/Mazurkas, Op.59/86551
+f2320ed2c1398b55bd7299b6e3ba971f/Bach, Johann Sebastian/15 Inventions, BWV 772-786/19938
+f25112edf57a7deb6621949102e0475e/Debussy, Claude/Suite bergamasque/46697
+f2939b44f95a54fef896b9cdada6d9b2/Chopin, Frederic/Nocturnes, Op.37/00465
+f2de41786a2b9e0a15839cccf202595a/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/36339
+f2e8c4f1e688a75cd223c00db4cd4402/Mozart, Wolfgang Amadeus/Piano Sonata No.16 in C major, K.545/00226
+f304767b333e75d242684b72b3c896d9/Beethoven, Ludwig van/7 Bagatelles, Op.33/58117
+f32fefedcdab39c249731a1c9f226813/Chopin, Frederic/Preludes, Op.28/00485
+f3f2b48a2382a6af9a7be4e92eb7d1de/Bach, Johann Sebastian/Das wohltemperierte Klavier II, BWV 870-893/36339
+f3f6e46b1f147f26c76d16aa87fccdb8/Bach, Johann Sebastian/Goldberg-Variationen, BWV 988/06984
+f459837693093bd6e2dc772d8267c766/Schumann, Robert/Kinderszenen, Op.15/176120
+f530678354293e034a95e2c1e9ee8994/Bach, Johann Sebastian/English Suite No.2 in A minor, BWV 807/58719
+f56ee7c7d36bf93cdc5348ab9c789699/Beethoven, Ludwig van/2 Sonatinas for Piano, Anh.5/51817
+f57836be9c83be7542cd0431c4a227e2/Debussy, Claude/Suite bergamasque/83536
+f585d2799b75b0242fe04030b3cd598c/Liszt, Franz/Annees de pelerinage II, Supplement, S.162/14079
+f5994f67862774d7af7dd49ec57b3c57/Bach, Johann Sebastian/Fugue in G major, BWV 577/04394
+f5a4dddacf157055f353c69570c06294/Chopin, Frederic/Etudes, Op.10/168185
+f5ac959767823b66bef89b645c425d59/Chopin, Frederic/Preludes, Op.28/00485
+f5c5fbea8c68ba3c04eaa14b0c6a285a/Chopin, Frederic/Etudes, Op.10/60293
+f5eba22b9cf493c7629ff6660e3adf71/Bach, Johann Sebastian/15 Inventions, BWV 772-786/396133
+f5f9c04fe5eba5e0308b6788839e57c0/Clementi, Muzio/3 Piano Sonatinas, Op.37/57570
+f607992ae37aad238827750f3d321b87/Schumann, Robert/Kinderszenen, Op.15/289791
+f66f95b1390e6dd9dcd0730d072265d3/Brahms, Johannes/7 Fantasien, Op.116/01528
+f677cd5c2b89173afd60a7d25180cfcc/Chopin, Frederic/Mazurkas, Op.7/113860
+f694d3904bf549b55c8e9ec53a427a3e/Beethoven, Ludwig van/Piano Sonata No.14, Op.27 No.2/15808
+f69bf61b465f9383f38c9495637aea5e/Chopin, Frederic/Scherzo No.2, Op.31/79846
+f6b93c7ad41a5f572b86fcbe007bdaa1/Beethoven, Ludwig van/7 Bagatelles, Op.33/00947
+f72ddb2633f1418a654115664181962c/Beethoven, Ludwig van/Piano Sonata No.14, Op.27 No.2/331155
+f7ab9716a5e6f1ee971d0e788c58c5cb/Bach, Johann Sebastian/Prelude and Fugue in C major, BWV 846/01005
+f7ba6ad2716e1dc493d27945bb373bd0/Beethoven, Ludwig van/Rondo, WoO 49/12824
+f7ecf423654d85834955aabcd4eb80b3/Liszt, Franz/Ab irato, S.143/12942
+f7f1513d83a63fb379ba259f1e050b7e/Liszt, Franz/Grandes etudes de Paganini, S.141/55303
+f84c3b256e329d8390f7057a4897df84/Chopin, Frederic/Nocturnes, Op.55/334225
+f8580011994c858603bbda101e7c7385/Bach, Johann Sebastian/6 Partitas, BWV 825-830/00789
+f8b904d0df4697b0704af7ece00de6af/Debussy, Claude/Children's Corner/82214
+f8d56397780512b691e8cde355d9a954/Brahms, Johannes/Piano Sonata No.1, Op.1/00119
+f8fcecbd28d5e992123a47f931726de5/Chopin, Frederic/Etudes, Op.10/60293
+f976cd25af0b5405a01f3ae4fd5e0aa1/Schumann, Robert/Symphonic Etudes, Op.13/289811
+f9f497157a10205cc299ec1e980b923e/Chopin, Frederic/Nocturnes, Op.55/50493
+fa2b6e07b96196d751a9871e63c66fb2/Chopin, Frederic/Preludes, Op.28/00485
+fa6ced32d4e1bccee9d98501e69acddf/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+fa8594cb485a9bab3b8e3c2383cd1808/Bach, Johann Sebastian/Passacaglia in D minor, BWV Anh.182/06407
+fa8d380924ea542ee25937714353d93f/Mozart, Wolfgang Amadeus/Piano Sonata No.11 in A major, K.331/00220
+faabfec9bdeb5a7618e961ea013e707d/Beethoven, Ludwig van/Bagatelle in B-flat major, WoO 60/53184
+fabd8784397f6b66a961d1e07371438d/Bach, Johann Sebastian/Duetto No.4 in A minor, BWV 805/00822
+fae909afc8e29eafbfacb067e6350645/Chopin, Frederic/Waltzes, Op.70/00501
+fb09afda6fe015a4cb4f03ad56a1cdbd/Bach, Johann Sebastian/Prelude and Fugue in A minor, BWV 895/03193
+fb1b58937437e9ce3f0cb65523442e60/Mozart, Wolfgang Amadeus/Piano Sonata No.11 in A major, K.331/70209
+fb426a5c6e6a3758d6075f506f45800c/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+fb586f385fffd9435b1e6123dd28e4fb/Chopin, Frederic/Preludes, Op.28/86359
+fb9f33e3c6148987e0b9a85ed2ca034d/Gouin, Pierre/Preludes, Op.28/66277
+fbadf697b97a55b9b6786e95acc5e902/Tarrega, Francisco/Menuet de Beethoven/12819
+fc162e9f1a1f248c10fb1f097813f7c1/Brahms, Johannes/7 Fantasien, Op.116/84692
+fc187797a0d47b9b40c41c2d6a38f015/Liszt, Franz/Album d'un voyageur, S.156/04094
+fc20d211b95e67128051387f71dbf47d/Chopin, Frederic/Nocturnes, Op.27/47190
+fc69c4ed5bf994681c29cb2b53730023/Bach, Johann Sebastian/Goldberg-Variationen, BWV 988/06984
+fcabc124fff5e3517b6da925d52bed23/Grieg, Edvard/Lyric Pieces, Op.54/32348
+fcb5efd5f2c51b43dc5561e365bcbccd/Beethoven, Ludwig van/7 Variations on 'God Save the King', WoO 78/217743
+fd0d6658f63332f2d41648436702da30/Clementi, Muzio/6 Piano Sonatinas, Op.36/63977
+fd1d7b260f581b576a9d0d8e3346b329/Grieg, Edvard/Lyric Pieces, Op.65/181323
+fd2638b2d11d905e07525a0c8d069c89/Mozart, Wolfgang Amadeus/Piano Sonata No.13 in B-flat major, K.333/56440
+fd2eb62c9a209279f7ed7830a154f0e8/Schumann, Robert/Kinderszenen, Op.15/289791
+fd5d963967b284a04fd2733906fdab34/Haydn, Joseph/Divertimento in C major, Hob.XVI:7/471958
+fd76abe9f5a931f2466f8b0d746e7962/Bach, Johann Sebastian/15 Inventions, BWV 772-786/22076
+fe0f693aca58e121d99045964b14db8f/Schumann, Robert/Kinderszenen, Op.15/00720
+fe1ca229339f0d825d630b13f1ca79ff/Chopin, Frederic/Etudes, Op.10/514955
+fe25cd1a91cdaed8b4e74f03368e8172/Haydn, Joseph/Keyboard Sonata in C major, Hob.XVI:35/472686
+fe4c4c7d9767ffdbd1b639777bc74bc0/Beethoven, Ludwig van/2 Sonatinas for Piano, Anh.5/51816
+fe83b7a91536dee6c2897f589b535071/Tchaikovsky, Pyotr/The Seasons, Op.37a/321831
+feeaccb219ed9f38640f7d2b08830052/Chopin, Frederic/Mazurkas, Op.56/113870
+fef55ff81ae541fc93886b6f98b83664/Mozart, Wolfgang Amadeus/Piano Sonata No.11 in A major, K.331/00220
+ff296837448f47aaac2fad822403f595/Chopin, Frederic/Preludes, Op.28/00485
+ff2aa14adf373340e9b38b3c2a4fb7c9/Chopin, Frederic/Etudes, Op.25/112921
+ff470a72250c1e4b64e222510c1c034a/Mozart, Wolfgang Amadeus/Piano Sonata No.5 in G major, K.283/00214
+ff51c8c7ee058440f81e198e9816eea2/Bach, Johann Sebastian/Prelude and Fugue in C-sharp minor, BWV 873/02181
+ff5fd72920c6b72eb70a7b4efe27c248/Chopin, Frederic/Etudes, Op.10/86297
+ff6f02bbb60b59ca77349533759ef625/Bach, Johann Sebastian/Invention in D major, BWV 774/00749
+ff9755c0be6be6aba2c8628d774b1718/Beethoven, Ludwig van/Piano Sonata No.25, Op.79/69588
+ff99304e8d8310231702380cdde7cc6d/Chopin, Frederic/Mazurkas, Op.68/96641
+ffc60d1503bcd03ae6caf02a58518517/Chopin, Frederic/Mazurkas, Op.50/96503
+fff7ee48620928abd5afb1ab0d0e48a4/Chopin, Frederic/3 Nouvelles etudes, B.130/60296
